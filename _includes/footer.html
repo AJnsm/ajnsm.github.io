@@ -9,14 +9,17 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
+            <!-- {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
-            {%- endif -%}
+            {%- endif -%} -->
             </li>
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+            {%- if site.copyright -%}
+            <li>&copy; {{ site.copyright }} {{ 'now' | date:'%Y'}}</li>
             {%- endif -%}
         </ul>
       </div>
@@ -25,9 +28,9 @@
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
+      <!-- <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
-      </div>
+      </div> -->
     </div>
 
   </div>
