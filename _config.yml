@@ -28,7 +28,8 @@ twitter_username: Abelaer
 github_username:  AJnsm
 
 # Build settings
-theme: minima
+# Removed line below - no longer using default minima theme 
+# theme: minima
 plugins:
   - jekyll-feed
 
