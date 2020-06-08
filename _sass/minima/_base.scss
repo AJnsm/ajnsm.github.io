@@ -106,20 +106,20 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  //&:visited {
+  //  color: darken($brand-color, 15%);
+  //}
 
   &:hover {
-    color: #1D79F2;
-    //text-decoration: underline;
+    color: #07338C;
+    text-decoration: none;
   }
 
   .social-media-list &:hover {
     text-decoration: none;
 
     .username {
-      // text-decoration: underline;
+      text-decoration: none;
     }
   }
 }
