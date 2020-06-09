@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am based in Edinburgh, but spend time in Amsterdam and Berlin as well. I'm always open to chat about interesting ideas.
+<p class="bottom-2"> I am based in Edinburgh, but spend time in Amsterdam and Berlin as well. I'm always open to chat about interesting ideas.</p>
 
 <h3> My office </h3>
 Room E3.03<br>
