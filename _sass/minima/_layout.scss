@@ -233,6 +233,10 @@
   @include relative-font-size(1.5);
 }
 
+.bottom-1 {
+     margin-bottom: 1cm;
+  }
+
 .main-col1 {
     //width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
@@ -243,6 +247,20 @@
 .main-col2 {
     //width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
+    float: right;
+    @extend %clearfix;
+}
+
+.main-col66 {
+    //width: -webkit-calc(66% - (#{$spacing-unit} / 2));
+    width:         calc(66% - (#{$spacing-unit} / 2));
+    float: left;
+    @extend %clearfix;
+}
+
+.main-col33 {
+    //width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+    width:         calc(33% - (#{$spacing-unit} / 2));
     float: right;
     @extend %clearfix;
 }
