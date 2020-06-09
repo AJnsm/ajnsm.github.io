@@ -16,6 +16,6 @@ layout: home
 		</p>	
 	</section>
 	<section class="main-col2">
-		<img src="/assets/abel_small.png" width="500">
+		<img src="/assets/abel_circle_small.png" width="500">
 	</section>
 </div>
