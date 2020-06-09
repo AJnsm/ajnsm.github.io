@@ -5,10 +5,9 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 0px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-  shadow: 0 3 #222;
   // Positioning context for the mobile navigation icon
   position: relative;
-  //background-color: #07338C;
+  //background-color: $blueBrand-color;
 
 }
 
@@ -19,11 +18,6 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
-  &,
-  &:visited {
-    color: #F26241;
-  }
 }
 
 .site-nav {
@@ -41,10 +35,13 @@
   .page-link {
     color: #F26241;
     line-height: $base-line-height;
-
+    &:hover {
+      color: $blueBrand-color;
+      text-decoration: none;
+    }
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 25px;
     }
   }
 
@@ -111,6 +108,8 @@
 
   border-top: 0px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: $blueBrand-color;
+
 }
 
 .footer-heading {
@@ -125,6 +124,14 @@
   margin-right: 0;
 }
 
+.site-footer a {
+  text-decoration: none !important;
+  &:hover {
+      color: $background-color;
+      text-decoration: none !important;
+    }
+  }
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
@@ -134,7 +141,6 @@
 }
 
 .footer-col {
-  float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
@@ -149,17 +155,19 @@
   width:         calc(15% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
+.footer-col-right {
   float: right;
-  width: -webkit-calc(15% - (#{$spacing-unit} / 2));
-  width:         calc(15% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+  float: right;
+  text-align: right
 }
 
-.footer-col-4 {
-  float: right;
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
-  text-align: right;
+.footer-col-left {
+  float: left;
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+  text-align: left;
   margin-right: -10;
 }
 
@@ -190,7 +198,7 @@
  * Page content
  */
 .page-content {
-  //background-color: white;
+  background-color: white;
   padding: $spacing-unit 0;
   flex: 1;
 }
@@ -226,12 +234,22 @@
     //width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
     float: left;
+    @extend %clearfix;
 }
 
 .main-col2 {
     //width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
     float: right;
+    @extend %clearfix;
+}
+
+.makeOrange {
+  color: $brand-color;
+}
+
+.makeBlue {
+  color: $blueBrand-color;
 }
 
 
@@ -280,3 +298,4 @@
     }
   }
 }
+

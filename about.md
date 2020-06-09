@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am Abel Jansma, a PhD candidate at the university of Edinburgh. 
+Website built in Jekyll, hosted on Github Pages. 
+<br>
+&copy; {{ site.copyright }} {{ 'now' | date:'%Y'}}
