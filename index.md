@@ -7,7 +7,6 @@ layout: home
 ---
 
 <div class="wrapper">
-	<h1>This website is under construction.</h1>
 	<section class="main-col1">
 		<p> 
 			I am a PhD candidate at the University of Edinburgh. My background is in theoretical physics, but my current work focuses on genetics, interactions, and causality. <br/> I use ideas and techniques from physics to think about <a href="/research">networks of interacting genes</a>. 
