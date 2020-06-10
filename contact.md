@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /about/
+permalink: /contact/
 ---
 
 <p class="bottom-2"> I am based in Edinburgh, but spend time in Amsterdam and Berlin as well. I'm always open to chat about interesting ideas.
