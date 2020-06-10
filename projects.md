@@ -32,9 +32,8 @@ permalink: /projects/
 </section><br>
 
 
-
 <h2> Olfactory distillation </h2>
-<p>I worked in the <a href="https://www.mediamatic.net/en/page/284175/distillation-101" target="_blank">brewery of Mediamatic</a>. I designed and built a bespoke still to compactify their beer, and aid in olfactory research. By making the still a closed system, and putting a vacuum pump downstream from the condenser, I tried to distill at low pressures to see if I could preserve more odours. While I was able to produce marvelous moonshine by electrostatic fermentation, I could not reach low enough pressures to really notice a difference.</p><br>
+<p>I worked in the <a href="https://www.mediamatic.net/en/page/284175/distillation-101" target="_blank">brewery of Mediamatic</a>. I designed and built a bespoke still to compactify their beer, and aid in olfactory research. By making the still a closed system, and putting a vacuum pump downstream from the condenser, I tried to distill at low pressures to see if I could preserve more odours. While I was able to produce marvelous moonshine by electrostatic fermentation, I could not reach low enough pressures to really notice a difference. I presented some work on this at an <a href="https://www.mediamatic.net/en/page/367770/the-aroma-lab-edition">Odorama</a>.</p><br>
 <section style="display: inline;">
 		<img src="/assets/ferment.jpg" height="200">
 </section>

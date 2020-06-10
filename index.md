@@ -8,8 +8,8 @@ layout: home
 
 <div class="wrapper">
 	<section class="main-col1">
-		<p> 
-			I am a PhD candidate at the University of Edinburgh. My background is in theoretical physics, but my current work focuses on genetics, interactions, and causality. <br/> I use ideas and techniques from physics to think about <a href="/research">networks of interacting genes</a>. 
+		<p class='bottom-1'> 
+			I am a PhD candidate at the University of Edinburgh. My background is in theoretical physics, but my current work focuses on genetics, interactions, and causality. <br/> I use ideas and techniques from physics to think about <a href="/research">networks of interacting genes</a>.<br>
 		</p>
 		<p>	
 			I have noticed that I think better when I imagine an audience, so I will use the <a href="/blog"> blog </a> as an extension of my brain, and hopefully fill it with my thoughts on interesting ideas. 
