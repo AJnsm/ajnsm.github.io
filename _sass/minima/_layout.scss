@@ -113,7 +113,7 @@
   font-family: $headAndFoot-font-family;
   border-top: 0px solid $grey-color-light;
   padding: $spacing-unit 0;
-  background-color: $blueBrand-color;
+  background-color: darken($blueBrand-color, 17%);
 
 }
 
@@ -291,6 +291,14 @@
 
 .makeBlue {
   color: $blueBrand-color;
+}
+
+.blurredImg {
+  filter: blur(8px);
+  -webkit-transform: translate3d(0, 0, 0);
+  &:hover {
+    filter: blur(0px);
+    }
 }
 
 
