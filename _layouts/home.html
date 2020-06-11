@@ -14,7 +14,7 @@ layout: default
     <h1 class="post-list-heading">{{ page.list_title | default: "Latest posts" }}</h1>
     <ul>
       {%- for post in site.posts -%}
-      <li class="post-list main-col1">
+      <li class="post-list">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>

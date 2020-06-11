@@ -197,6 +197,7 @@
 
 
 
+
 /**
  * Page content
  */
@@ -258,9 +259,14 @@
   }
 
 .main-col1 {
-    //width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
     float: left;
+
+    @include media-query($on-palm) {
+      width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+      width:         calc(100% - (#{$spacing-unit} / 2));
+  }
     @extend %clearfix;
 }
 
@@ -268,6 +274,10 @@
     //width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
     float: right;
+    @include media-query($on-palm) {
+      width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+      width:         calc(100% - (#{$spacing-unit} / 2));
+  }
     @extend %clearfix;
 }
 
@@ -299,7 +309,10 @@
   &:hover {
     filter: blur(0px);
     }
+
 }
+
+
 
 
 
