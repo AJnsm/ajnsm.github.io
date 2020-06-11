@@ -5,4 +5,3 @@ permalink: /research/
 ---
 
 COMING SOON: Something about my research.
-
