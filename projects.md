@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 <h2> Ising Model </h2>
-<p>I could not find a video of a physical <a href="https://en.wikipedia.org/wiki/Ising_model" target="_blank">Ising model</a> online, only simulations. So I built one out of magnets. It's not *really* an Ising model, as the 'spins' are continuous angles, but it shows interesting behaviour nonetheless. There are clear waves of motion visible that propagate along the chain. Are these goldstone bosons associated with an (approximate) U(1) symmetry of the ground state?</p><br>
+<p>I <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f1541951402.pdf" target="_blank"><b>really</b></a> like the <a href="https://en.wikipedia.org/wiki/Ising_model" target="_blank">Ising model</a>. I could not find a video of a physical version online, only simulations. So I built one out of magnets. It's not really an Ising model, as the 'spins' are continuous angles, but it shows interesting behaviour nonetheless. There are clear waves of motion visible that propagate along the chain. Are these goldstone bosons associated with an (approximate) U(1) symmetry of the ground state?</p><br>
 <section class="bottom-1">
 		<iframe width="600" height="350" src="https://www.youtube.com/embed/grGs0FSb4SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
