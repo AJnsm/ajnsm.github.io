@@ -1,0 +1,15 @@
+
+central dogma:
+
+\begin{tikzpicture}[>={Stealth[inset=0pt,scale=2,round]},scale=1.5]
+  \node[shape=circle,draw=black] (A) at (0,0) {DNA};
+  \node[shape=circle,draw=black] (B) at (-2,-3.46) {RNA};
+  \node[shape=circle,draw=black] (C) at (2,-3.46) {Protein};
+  \path [->, thick] (A) edge[bend right=20] node [midway, sloped, above] {Transcription} (B); 
+  \path [->, thick] (B) edge[bend right=20] node [midway, sloped, below] {Reverse Transcr.} (A); 
+  \path [->, thick] (B) edge[bend right=20] node [midway, sloped, below] {Translation} (C); 
+  \path [->, thick] (C) edge[bend right=20] node [midway, sloped, below] {Splicing} (B); 
+  \path [->, thick] (C) edge[bend right=20] node [midway, sloped, above] {Chromatin structure} (A); 
+  \path [->, thick] (C) edge[bend right=20] node [midway, sloped, below] {DNA binding} (A); 
+  \path [->, dashed] (A) edge[bend right=20] node [midway, sloped, below] {} (C); 
+\end{tikzpicture}
