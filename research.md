@@ -7,7 +7,7 @@ permalink: /research/
 <!-- COMING SOON: Something about my research. -->
 
 
-<p>In September 2018 I came to Edinburgh to join the <a href="https://www.ed.ac.uk/mrc-human-genetics-unit/research/ponting-group">group of Chris Ponting</a> at the MRC Institute of Genetics & Molecular Medicine. My research is co-supervised by Luigi Del Debbio and Ava Khamseh at the <a href="https://higgs.ph.ed.ac.uk">Higgs Centre for Theoretical Physics</a>. We try to make sense of genetic interactions, and hope to contribute to the understanding of <a href="https://en.wikipedia.org/wiki/Gene_regulatory_network">gene regulatory networks</a> and the difference between <a href="https://www.humancellatlas.org">cell types</a>.<br>
+<p>In September 2018 I came to Edinburgh to join the <a href="https://www.ed.ac.uk/mrc-human-genetics-unit/research/ponting-group">group of Chris Ponting</a> at the MRC Institute of Genetics & Molecular Medicine (IGMM). My research is supervised Chris Ponting at the IGMM, and by Luigi Del Debbio and Ava Khamseh at the <a href="https://higgs.ph.ed.ac.uk">Higgs Centre for Theoretical Physics</a>. We try to make sense of genetic interactions, and hope to contribute to the understanding of <a href="https://en.wikipedia.org/wiki/Gene_regulatory_network">gene regulatory networks</a> and the difference between <a href="https://www.humancellatlas.org">cell types</a>.<br>
 
 We do this by learning interactions from large gene expression (scRNA-seq) data sets, and investigating the role of higher order couplings. What all of this means is explained below.</p> <br>
 
