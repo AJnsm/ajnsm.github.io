@@ -291,7 +291,7 @@
 .main-col33 {
     //width: -webkit-calc(33% - (#{$spacing-unit} / 2));
     width:         calc(33% - (#{$spacing-unit} / 2));
-    float: left;
+    float: right;
     @extend %clearfix;
 }
 
