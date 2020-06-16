@@ -1,5 +1,12 @@
 
 central dogma:
+\documentclass[10pt]{article}
+\usepackage[usenames]{color} %used for font color
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
 
 \begin{tikzpicture}[>={Stealth[inset=0pt,scale=2,round]},scale=1.5]
   \node[shape=circle,draw=black] (A) at (0,0) {DNA};
@@ -12,4 +19,25 @@ central dogma:
   \path [->, thick] (C) edge[bend right=20] node [midway, sloped, above] {Chromatin structure} (A); 
   \path [->, thick] (C) edge[bend right=20] node [midway, sloped, below] {DNA binding} (A); 
   \path [->, dashed] (A) edge[bend right=20] node [midway, sloped, below] {} (C); 
+\end{tikzpicture}
+
+
+Correlation:
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, angles, quotes}
+
+\begin{tikzpicture}[scale=1.5]
+  \node (A) at (0.2, 0.85) {$x$};
+  \node (B) at (1.2, 0.4) {$y$};
+  \node[anchor=west] at (1, 0) {$O_1$};
+  \node[anchor=south] at (0, 1) {$O_2$};
+  \coordinate (O) at (0,0);
+  \draw[black] (-1,0)--(1, 0);
+  \draw[black] (0,-1)--(0, 1);
+  \draw[->]  (0, 0)--(A);
+  \draw[->]  (0, 0)--(B);
+  \pic [draw, dashed, "$\theta$", angle eccentricity=1.5] {angle = B--O--A};
 \end{tikzpicture}
