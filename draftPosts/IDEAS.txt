@@ -15,6 +15,7 @@ Series: dualities in statistics
 
 - Mendelian randomisation and do-calculus/IV (?)
 
+- Fisher information matrix and least sqaures : https://static1.squarespace.com/static/5b58c02775f9ee8fa7e52f00/t/5ee23dc96962af2ffaae966a/1591885262557/InfoGeo_Notes_Part1.pdf
 
 
 

@@ -21,7 +21,7 @@ Which is a good inner product because it's obviously symmetric, linear, and posi
 
 $$ \langle x, y \rangle = \cos(\theta) |x| |y| $$
 
-This gives us a nice way to compare how similar two variables are: just calculate the angle between them! The smaller this angle, the more similar they are in each observation. We might want to centre our observations around zero so get rid of any gauge effects:
+This gives us a nice way to compare how similar two variables are: just calculate the angle between them! The smaller this angle, the more similar they are in each observation. We might want to centre our observations around zero to get rid of any gauge effects:
 
 $$
 \begin{align}
