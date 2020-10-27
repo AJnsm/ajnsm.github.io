@@ -60,3 +60,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+#FROM CV TEMPLATE
+markdown:   kramdown
+style:  davewhipp
