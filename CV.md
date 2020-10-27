@@ -8,9 +8,9 @@ title: Abel's CV
 Berlin | Amsterdam | Edinburgh
 </div>
 <div id="webaddress"> url: 
-<a href="https://abeljansma.nl">abeljansma.nl</a> | 
-<a href="https://twitter.com/Abelaer">@abelaer</a> |
-<a href="https://www.linkedin.com/in/abeljansma/">abeljansma</a> |
+<a href="https://abeljansma.nl" target="_blank">abeljansma.nl</a> | 
+<a href="https://twitter.com/Abelaer" target="_blank">@abelaer</a> |
+<a href="https://www.linkedin.com/in/abeljansma/" target="_blank">abeljansma</a> |
 <a href="mailto:ax.ax.ax.jansmax@xsxmxsx.edx.acx.ukxxxx"
     onmouseover="this.href=this.href.replace(/x/g,'');">a.a.a.jansma@sms.ed.ac.uk </a>
 </div>
@@ -49,36 +49,37 @@ __HKU University of the Arts Utrecht__
 
 ## Publications
 
-A list is also available [online](https://scholar.google.com/citations?user=INJd_nIAAAAJ&hl=en).
+A list is also available <a href="https://scholar.google.com/citations?user=INJd_nIAAAAJ&hl=en" target="_blank">online</a>.
+
 
 ### Theses
 `2018`
 __MSc Thesis__
- - <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f1541951402.pdf"> E8 Symmetry Structures in the Ising model</a> (A. Jansma, 2018) Under supervision of prof. Bernard Nienhuis
+ - <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f1541951402.pdf" target="_blank"> E8 Symmetry Structures in the Ising model</a> (A. Jansma, 2018) Under supervision of prof. Bernard Nienhuis
 
  `2016`
 __BSc Thesis__
- - <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f74387304.pdf"> Chaos and Dimensionality in Wormspace</a> (A. Jansma, 2016) Under supervision of prof. Greg Stephens
+ - <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f74387304.pdf" target="_blank"> Chaos and Dimensionality in Wormspace</a> (A. Jansma, 2016) Under supervision of prof. Greg Stephens
 
 
 ### Online
 
 `2019`
 __QuantumUniverse.nl__
-- Guest blog post <a href="https://www.quantumuniverse.nl/over-vogels-en-vuurvliegjes"> Over vogels en vuurvliegjes</a> (Dutch)
+- Guest blog post <a href="https://www.quantumuniverse.nl/over-vogels-en-vuurvliegjes" target="_blank"> Over vogels en vuurvliegjes</a> (Dutch)
 
 `2019`
 __QuantumUniverse.nl__
-- Guest blog post <a href="https://www.quantumuniverse.nl/solitonen-in-het-zwembad"> Solitonen in het zwembad</a>  (Dutch)
+- Guest blog post <a href="https://www.quantumuniverse.nl/solitonen-in-het-zwembad" target="_blank"> Solitonen in het zwembad</a>  (Dutch)
 
 ### Code
 `2014`
 __OpenProcessing.org__
-- <a href="https://www.openprocessing.org/user/35246"> Firefly synchronisation</a> ran by \~4k people on openprocessing.org
+- <a href="https://www.openprocessing.org/user/35246" target="_blank"> Firefly synchronisation</a> ran by \~4k people on openprocessing.org
 
 `2013`
 __OpenProcessing.org__
-- <a href="https://www.openprocessing.org/user/35246"> Flocking and predator simulation</a> ran by >12k people, and forked by 17 on openprocessing.org
+- <a href="https://www.openprocessing.org/user/35246" target="_blank"> Flocking and predator simulation</a> ran by >12k people, and forked by 17 on openprocessing.org
 
 
 
@@ -148,7 +149,7 @@ __Languages__
 - Dutch (native) • English (Fluent) • German (conversational) • French (basic)
 
 __Programming__
-- python • R • Matlab • Processing (Java) • Arduino (C++) • Bash • Git • Mathematica
+- Python • R • Matlab • Processing (Java) • Arduino (C++) • Bash • Git • Mathematica
 
 
 __Visual__
