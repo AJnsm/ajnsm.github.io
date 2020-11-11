@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Article on Constructor Theory"
-date:   2020-06-16 14:04:35 +0200
+date:   2020-09-15 14:04:35 +0200
 author: Abel Jansma
 tags: physics philosophy miscellaneous maths
 ---
