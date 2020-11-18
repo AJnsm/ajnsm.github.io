@@ -18,7 +18,7 @@ Berlin | Amsterdam | Edinburgh
 
 
 ## Currently
-PhD candidate at the University of Edinburgh. We think about higher order interactions in single-cell data, and how they relate to cell type. 
+PhD in genetics and physics at the University of Edinburgh. We think about higher order genetic interactions in single-cell data, and how these interactions relate to cell type. 
 - **Research Interests:** Genetic interactions • Causality • Physics of biology • Physics of machine learning • Category theory • the Human Cell Atlas
 
 
