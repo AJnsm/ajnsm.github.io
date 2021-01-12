@@ -9,6 +9,18 @@ permalink: /projects/
 		<iframe width="600" height="350" src="https://www.youtube.com/embed/grGs0FSb4SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
 
+<h2> Standaard Afwijking </h2>
+<p>I run <a href="https://www.instagram.com/standaardafwijking" target="_blank"><b>an instagram account</b></a> where I collect photos of probability distrubution in the wild that say something about humans. Please send me yours!
+</p><br>
+<section style="display: inline;">
+		<img src="/assets/insta_std1.png" height="200">
+</section>
+<section style="display: inline;">
+		<img src="/assets/insta_std2.png" height="200">
+</section>
+<section style="display: inline;">
+		<img src="/assets/insta_std3.png" height="200">
+</section><br>
 
 <h2> Bees </h2>
 
