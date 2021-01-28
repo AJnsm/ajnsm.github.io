@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 <h4>MSc. Thesis</h4>
-<a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f1541951402.pdf" target="_blank"> E<sub>8</sub> symmetry structures in the Ising model </a> University of Amsterdam, A. Jansma 2018
+<a href="/assets/mscThesis.pdf" target="_blank"> E<sub>8</sub> symmetry structures in the Ising model </a> University of Amsterdam, A. Jansma 2018
 
 <br>
 <h4>Code</h4>

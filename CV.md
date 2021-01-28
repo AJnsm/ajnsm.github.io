@@ -55,7 +55,7 @@ A list is also available <a href="https://scholar.google.com/citations?user=INJd
 ### Theses
 `2018`
 __MSc Thesis__
- - <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f1541951402.pdf" target="_blank"> E8 Symmetry Structures in the Ising model</a> (A. Jansma, 2018) Under supervision of prof. Bernard Nienhuis
+ - <a href="/assets/mscThesis.pdf" target="_blank"> E8 Symmetry Structures in the Ising model</a> (A. Jansma, 2018) Under supervision of prof. Bernard Nienhuis
 
  `2016`
 __BSc Thesis__
@@ -157,8 +157,5 @@ __Visual__
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
