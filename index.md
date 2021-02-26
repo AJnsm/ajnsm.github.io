@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-<!-- title: This website is under construction. -->
----
+
 
 <div class="wrapper  bottom-3">
 	<section  class="main-col66">
