@@ -10,10 +10,11 @@ permalink: /publications/
 
 
 <br>
-<h4>Talks</h4>
+<h4>Talks and conferences</h4>
 <ul>
-<li><i>Complex gene regulation: higher-order interactions in single cell expression data</i> - CHSL Network Biology conference (poster presentation), March 2021.</li>
-<li><i>A maximally noncommittal physicist looks at genetic interactions</i> - Biomedical Genomics section meeting, May 2020.</li>
+<li><i>Higher-order interactions in single cell expression data</i> - Biomedical Genomics section meeting, March 2021. <a href="/assets/BG_section_talk_16_03_21_handout.pdf" target="_blank"> Slides </a></li>
+<li><i>Complex gene regulation: higher-order interactions in single cell expression data</i> - CHSL Network Biology conference (<a href="/assets/Higher_order_interactions_CSHL.pdf" target="_blank"> Poster </a>), March 2021.</li>
+<li><i>A maximally noncommittal physicist looks at genetic interactions</i> - Biomedical Genomics section meeting, May 2020. <a href="/assets/BG_pres_1.pdf" target="_blank"> Slides </a></li>
 <li><i>Computational biology journal club</i> - Helped organise and present, May 2019 - Sep 2020.</li>
 <li><i>Introduction to the do-calculus</i> - Helped organise and present at the IGMM Causality book club, April 2019.</li>
 <li><i>Ethics in biomedicine</i> - Workshop at group retreat, October 2019.</li>
