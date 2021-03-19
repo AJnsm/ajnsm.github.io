@@ -3,6 +3,21 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+<h2> Mycorrhizal transplantations </h2>
+<p>Some trees got cut off from their neighbours by a road. We brought them back in infochemical contact with their neighbours through <a href="/assets/Myco_transplant_small.pdf" target="_blank"><b>a series of mycorrhizal transplantations</b></a>.
+</p><br>
+<section style="display: inline;">
+		<img src="/assets/myco_1.png" height="200">
+</section>
+<section style="display: inline;">
+		<img src="/assets/myco_2.png" height="200">
+</section>
+<section style="display: inline;">
+		<img src="/assets/myco_3.png" height="200">
+</section><br>
+
+
 <h2> Ising Model </h2>
 <p>I <a href="/assets/mscThesis.pdf" target="_blank"><b>really</b></a> like the <a href="https://en.wikipedia.org/wiki/Ising_model" target="_blank">Ising model</a>. I could not find a video of a physical version online, only simulations. So I built one out of magnets. It's not really an Ising model, as the 'spins' are continuous angles, but it shows interesting behaviour nonetheless. There are clear waves of motion visible that propagate along the chain. Are these goldstone bosons associated with an (approximate) U(1) symmetry of the ground state?</p><br>
 <section class="bottom-1">
