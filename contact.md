@@ -20,7 +20,7 @@ You can contact me on my <a href="mailto:ax.ax.ax.jansmax@xsxmxsx.edx.acx.ukxxxx
 <h3 class="main-col66"> My office in Edinburgh </h3>
 <p class="main-col66">
 Room E3.03<br>
-IGMM: MRC Institute of Genetics and Molecular Medicine <br>
+IGC: MRC Institute of Genetics and Cancer <br>
 The University of Edinburgh <br>
 Western General Hospital Campus, Crewe Road <br>
 Edinburgh EH4 2XU
