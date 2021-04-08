@@ -30,7 +30,7 @@ __University of Amsterdam__
 
 `Feb - Aug 2016`
 __University of Copenhagen__
-- Visiting graduate student at the Niels Bohr Institute. Focused on biophysics and a research project on computational architecture.
+- Visiting graduate student at the Niels Bohr Institute. Focused on biophysics and a research project on computational design in architecture.
 
 `2012 - 2015`
 __University of Amsterdam__
