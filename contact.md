@@ -7,7 +7,7 @@ permalink: /contact/
 <p class="main-col66 bottom-1"> 
 I am based in Berlin, but can be found in Amsterdam and Edinburgh as well. I'm always open to chat about interesting ideas.
 You can contact me on my <a href="mailto:ax.ax.ax.jansmax@xsxmxsx.edx.acx.ukxxxx"
-    onmouseover="this.href=this.href.replace(/x/g,'');">academic </a>, or <a href="mailto:axbelx_xjaxnsxmax@xhoxxtxmaxxixxl.xcxomx"
+    onmouseover="this.href=this.href.replace(/x/g,'');">academic </a>, or <a href="mailto:axbelx@xjaxnsxmax.xnxlx"
     onmouseover="this.href=this.href.replace(/x/g,'');">personal</a> email address.<br>
 
 
