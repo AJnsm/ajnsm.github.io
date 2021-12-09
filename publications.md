@@ -9,17 +9,18 @@ permalink: /publications/
 <br>
 <h4>Talks and conferences</h4>
 <ul>
+	<li><i>Cybergenetic networks in the mouse brain: higher-order gene regulation and Boolean logic</i> - IGC Biomedical Genomics section meeting, Dec 2021. </li>
 	<li><i>Model-free estimation of higher-order interactions</i> - CHSL Biology of Genomes conference, May 2021. <a href="/assets/CSHL_BoG_poster.pdf" target="_blank"> Poster </a></li>
-<li><i>Complex Gene Regulation: Higher-order interactions in single-cell expression data</i> - European Mathematical Genetics Meeting, April 2021. <a href="/assets/EMGM21_talk_handout.pdf" target="_blank"> Slides </a> | <a href="/assets/EMGM21_talk.m4v" target="_blank"> Video </a></li> 
-<li><i>Higher-order interactions in single-cell expression data</i> - IGC Biomedical Genomics section meeting, March 2021. <a href="/assets/BG_section_talk_16_03_21_handout.pdf" target="_blank"> Slides </a></li>
-<li><i>Complex gene regulation: higher-order interactions in single-cell expression data</i> - CHSL Network Biology conference, March 2021. <a href="/assets/Higher_order_interactions_CSHL.pdf" target="_blank"> Poster </a></li>
-<li><i>A maximally noncommittal physicist looks at genetic interactions</i> - Biomedical Genomics section meeting, May 2020. <a href="/assets/BG_pres_1.pdf" target="_blank"> Slides </a></li>
-<li><i>Computational biology journal club</i> - Helped organise and present, IGC May 2019 - Sep 2020.</li>
-<li><i>Introduction to the do-calculus</i> - Helped organise and present at the Causality book club, IGC April 2019.</li>
-<li><i>Ethics in biomedicine</i> - Workshop for Ponting-Lab, October 2019.</li>
-<li><i>Distillation for Olfactory Design</i> - Mediamatic Odorama nights, March 2017.</li>
-<li><i>SPUI25 in spe</i> - Organised and hosted multiple events at cultural centre <a href="https://www.spui25.nl">SPUI25</a>, Jan-Sep 2017.</li>
-<li><i>Debates on science and technology in society</i> - Organised and hosted monthly debates at the <a href="https://betabreak.squarespace.com">Betabreak</a> events, Dec 2014 - Jan 2016.</li>
+	<li><i>Complex Gene Regulation: Higher-order interactions in single-cell expression data</i> - European Mathematical Genetics Meeting, April 2021. <a href="/assets/EMGM21_talk_handout.pdf" target="_blank"> Slides </a> | <a href="/assets/EMGM21_talk.m4v" target="_blank"> Video </a></li> 
+	<li><i>Higher-order interactions in single-cell expression data</i> - IGC Biomedical Genomics section meeting, March 2021. <a href="/assets/BG_section_talk_16_03_21_handout.pdf" target="_blank"> Slides </a></li>
+	<li><i>Complex gene regulation: higher-order interactions in single-cell expression data</i> - CHSL Network Biology conference, March 2021. <a href="/assets/Higher_order_interactions_CSHL.pdf" target="_blank"> Poster </a></li>
+	<li><i>A maximally noncommittal physicist looks at genetic interactions</i> - Biomedical Genomics section meeting, May 2020. <a href="/assets/BG_pres_1.pdf" target="_blank"> Slides </a></li>
+	<li><i>Computational biology journal club</i> - Helped organise and present, IGC May 2019 - Sep 2020.</li>
+	<li><i>Introduction to the do-calculus</i> - Helped organise and present at the Causality book club, IGC April 2019.</li>
+	<li><i>Ethics in biomedicine</i> - Workshop for Ponting-Lab, October 2019.</li>
+	<li><i>Distillation for Olfactory Design</i> - Mediamatic Odorama nights, March 2017.</li>
+	<li><i>SPUI25 in spe</i> - Organised and hosted multiple events at cultural centre <a href="https://www.spui25.nl">SPUI25</a>, Jan-Sep 2017.</li>
+	<li><i>Debates on science and technology in society</i> - Organised and hosted monthly debates at the <a href="https://betabreak.squarespace.com">Betabreak</a> events, Dec 2014 - Jan 2016.</li>
 </ul>
 <br>
 
