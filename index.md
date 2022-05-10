@@ -15,3 +15,15 @@ layout: home
 		<img src="/assets/tiles2_small.png" width="500">
 	</section>
 </div>
+
+<div class="main-col33">
+  <div>
+    <a class="twitter-timeline"
+       href="https://twitter.com/Abelaer"
+       data-width="300"
+       data-height="300"
+       data-chrome="nofooter noscrollbar noborders transparent"
+       data-tweet-limit="1"> Latest tweet by @Abelaer</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
