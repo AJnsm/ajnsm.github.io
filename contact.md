@@ -27,6 +27,15 @@ Edinburgh EH4 2XU
 </p>
 
 
+<h3 class="main-col66"> Berlin </h3>
+<p class="main-col66">
+Trust <br>
+https://trust.support <br>
+Kluckstraße 25 <br>
+10785 Berlin
+</p>
+
+
 <!-- 
 Website built in Jekyll, hosted on Github Pages. 
 <br>
