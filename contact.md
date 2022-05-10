@@ -17,20 +17,22 @@ You can contact me on my <a href="mailto:ax.ax.ax.jansmax@xsxmxsx.edx.acx.ukxxxx
 	<img src="/assets/abel_herbst_circle.png" width="500">
 </section>
 
-<h3 class="main-col66"> My office in Edinburgh </h3>
+<h3 class="main-col66"> Edinburgh </h3>
 <p class="main-col66">
 Room E3.03<br>
 IGC: MRC Institute of Genetics and Cancer <br>
 The University of Edinburgh <br>
 Western General Hospital Campus, Crewe Road <br>
-Edinburgh EH4 2XU
-</p>
+Edinburgh EH4 2XU <br> <br> <br>
+</p><br>
+<br>
+<br>
 
 
 <h3 class="main-col66"> Berlin </h3>
 <p class="main-col66">
 Trust <br>
-https://trust.support <br>
+<a href="https://trust.support" target="_blank"> trust.support</a> <br>
 Kluckstraße 25 <br>
 10785 Berlin
 </p>
