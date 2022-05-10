@@ -4,7 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-
+<br>
+<h4>Articles</h4>
+<ul>
+	<li><i>Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information</i> - <a href="https://arxiv.org/abs/2205.04440" target="_blank"> arXiv.org </a> </li>
+</ul>
 
 <br>
 <h4>Talks and conferences</h4>
