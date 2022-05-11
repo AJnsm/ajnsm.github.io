@@ -52,6 +52,13 @@ __HKU University of the Arts Utrecht__
 A list is also available <a href="https://scholar.google.com/citations?user=INJd_nIAAAAJ&hl=en" target="_blank">online</a>.
 
 
+### Articles
+`2022`
+__Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information__ (A. Jansma, 2022)
+ - <a href="https://arxiv.org/abs/2205.04440" target="_blank"> Arxiv link </a>, <a href="https://twitter.com/Abelaer/status/1523998394376769537" target="_blank"> Summary on Twitter </a>
+
+
+
 ### Theses
 `2018`
 __MSc Thesis__
