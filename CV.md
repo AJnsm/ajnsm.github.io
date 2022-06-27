@@ -18,7 +18,10 @@ Berlin | Amsterdam | Edinburgh
 
 
 ## Currently
-PhD in precision medicine and theoretical physics at the University of Edinburgh. We think about higher order genetic interactions in single-cell data, and how these interactions relate to cell type and state. In a slogan: The cybergenetic semantics of cell state. 
+PhD in precision medicine and theoretical physics at the University of Edinburgh. We think about higher order genetic interactions in single-cell data, and how these interactions relate to cell type and state. 
+
+- **Supervisors:** Chris Ponting & Ava Khamseh (Institute of Genetics and Cancer), Luigi Del Debbio (Higgs Centre for Theoretical Physics)
+- **Slogan:** The cybergenetic semantics of cell state
 - **Research Interests:** Genetic systems biology • Causality & cybernetics • Higher-order information theory • Physics of machine learning • Category theory • the Human Cell Atlas
 
 

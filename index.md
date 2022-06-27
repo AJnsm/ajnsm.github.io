@@ -8,7 +8,7 @@ layout: home
 			I am a PhD candidate at the University of Edinburgh, working remotely from Berlin. I combine intuition from physics, knowledge from biology, and techniques from mathematics, to think about <a href="/research">networks of interacting genes</a>.
 		</p>
 		<p>	
-			I tend to get distracted by completely unrelated projects a lot. Some of those I've listed <a href="/projects">here</a>. 
+			I sometimes get distracted by completely unrelated projects. A few of those are listed <a href="/projects">here</a>. 
 		</p>	
 	</section>
 	<section class="main-col33">

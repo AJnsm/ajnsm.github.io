@@ -4,13 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-My research focuses on interactions among genes, and how these interactions relate to cell type. An immediate problem here is that neither genetic interactions, nor genes, nor cell type, are properly defined.
+My research focuses on interactions amongst genes, and how these interactions relate to cell type and state. An immediate problem here is that neither genetic interactions, nor genes, nor cell type/state, are properly defined.
 
 <br>
 
 The three fundamental questions we think about are:
 - What is the role of higher order interactions among genes?
-- What is a cell type?
+- What are cell types and states?
 - How does causality manifest itself in complex systems? 
 
 <br>
