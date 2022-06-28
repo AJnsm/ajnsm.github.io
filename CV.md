@@ -19,11 +19,11 @@ Berlin | Amsterdam | Edinburgh
 
 ## Currently
 
-PhD in precision medicine and theoretical physics at the University of Edinburgh. We think about higher order genetic interactions in single-cell data, and how these interactions relate to cell type and state. 
+PhD candidate in precision medicine and theoretical physics at the University of Edinburgh. We think about higher order genetic interactions in single-cell data, and how these interactions relate to cell type and state. 
 
 - **Supervisors:** Chris Ponting & Ava Khamseh (Institute of Genetics and Cancer), Luigi Del Debbio (Higgs Centre for Theoretical Physics)
 - **Slogan:** The cybergenetic semantics of cell state
-- **Research Interests:** Genetic systems biology • Causality & cybernetics • Higher-order information theory • Physics of machine learning • Category theory • the Human Cell Atlas
+- **Research Interests:** Genetic systems biology • Causality & cybernetics • Higher-order information theory • Physics of machine learning • Category theory & universality • the Human Cell Atlas
 
 
 ## Education
@@ -91,7 +91,7 @@ __OpenProcessing.org__
 
 `2013`
 __OpenProcessing.org__
-- <a href="https://www.openprocessing.org/user/35246" target="_blank"> Flocking and predator simulation</a> (ran by ~15k users, forked ~20 times)
+- <a href="https://www.openprocessing.org/user/35246" target="_blank"> Flocking and predator simulation</a> (ran by 16k users, forked >20 times)
 
 
 
@@ -144,6 +144,17 @@ __Mediamatic |__ Distiller
 `2014 - 2016`
 __Betabreak |__ Committee member
 - Organised and presented monthly debates at Amsterdam Science Park to stimulate cross-disciplinary discussion on science and society. (Betabreak.nl)
+
+### Teaching
+
+`2015`
+__HLZ (Hervormd Lyceum Zuid) |__ Substitute teacher
+- I taught physics and maths at the  high school in Amsterdam in preparation for the graduation exams. 
+
+`2013 - 2014`
+__Private tutor__
+- I was a private tutor at the highest level of high school physics and maths.
+
 
 ### Volunteering
 
