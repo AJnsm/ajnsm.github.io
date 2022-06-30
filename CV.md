@@ -169,7 +169,7 @@ __VoorleesExpress |__ Voorlezer
 ## Skills
 
 __Languages__
-- Dutch (native) • English (fluent) • German (conversational) • French (basic)
+- Dutch (native) • English (fluent) • German (fluent) • French (basic)
 
 __Programming__
 - Python • R • Matlab • Nextflow • Processing (Java) • Arduino (C++) • Bash/Zsh • Git • Mathematica
