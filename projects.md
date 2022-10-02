@@ -4,6 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
+<h2> Artificial aesthetics </h2>
+<p>OpenAI's AI system DALLE2 seems to be able to understand abstract visual languages. I explored prompts mentioning <a href="https://en.wikipedia.org/wiki/Ernst_Haeckel" target="_blank"><b>Ernst Haeckel</b></a> and <a href="https://en.wikipedia.org/wiki/M._C._Escher" target="_blank"><b>M.C. Escher</b></a> to understand how <a href="https://twitter.com/Abelaer/status/1565621179431485441" target="_blank"><b>symmetry</b></a> and <a href="https://twitter.com/Abelaer/status/1567168633935200257" target="_blank"><b>impossible geometry</b></a> are captured by DALLE2.  
+</p><br>
+<section style="display: inline;">
+		<img src="/assets/Haeckel_hand.png" height="200">
+</section>
+<section style="display: inline;">
+		<img src="/assets/Escher_house.png" height="200">
+</section><br>
+
+
 <h2> Mycorrhizal transplantations </h2>
 <p>Some trees got cut off from their neighbours by a road. We brought them back in infochemical contact with their neighbours through <a href="/assets/Myco_transplant_small.pdf" target="_blank"><b>a series of mycorrhizal transplantations</b></a>.
 </p><br>
