@@ -176,7 +176,7 @@ __Programming__
 
 
 __Visual__
-- Photoshop • Grasshopper (Rhino) • After Effects • Latex • Just enough css and html to make this website
+- SwiftUI • Photoshop • Grasshopper (Rhino) • After Effects • Latex • Just enough css and html to make this website
 
 
 
