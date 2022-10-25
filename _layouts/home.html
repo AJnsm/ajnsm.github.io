@@ -13,7 +13,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h1 class="post-list-heading">{{ page.list_title | default: "Latest posts" }}</h1>
     <ul>
-      {%- for post in site.posts -%}
+      {%- for post in site.posts limit:5 -%}
       <li class="post-list">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -27,7 +27,10 @@ layout: default
         {%- endif -%}
       </li>
       {%- endfor -%}
+      <br>
+      Or see <a href="/blog"">all posts</a>
     </ul>
+    
 
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}

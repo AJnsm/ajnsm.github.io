@@ -14,7 +14,7 @@ title: Blog
   {% include archive.html %}
 </ul>
 
-
+<!-- 
 
 <div class="main-col33">
   <div>
@@ -26,4 +26,4 @@ title: Blog
        data-tweet-limit="3">Tweets by @Abelaer</a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
-</div>
+</div> -->
