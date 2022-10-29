@@ -125,31 +125,35 @@ __University of Amsterdam |__ Computational Science dept.
 
 ### Professional
 
+`2022 - Present`
+__Ethereum Foundation |__ Protocol Fellow
+- Modelling value flows with compositional game theory
+
 `2017 - 2018`
 __SciPost |__ Information Officer
 - SciPost is a completely open scientific publishing company. I helped expand the editorial board, profiling and contacting potential new editors. (Scipost.org)
 
 `2015 - 2017`
 __ASML |__ Technology Scholar
-- I was selected as one of 25 graduate students nationwide for a two-year professional development programme, focused on leadership in technology.
+- Selected as one of 25 graduates nationwide for a two-year professional development programme, focused on leadership in technology.
 
 `2017`
 __SPUI25 |__ Member of the Junior Editorial Board
-- Co-organised and presented monthly events to place academic ideas and research in a cultural context for a broad audience. (Spui25.nl)
+- Co-organised and presented monthly academic & cultural events for a broad audience. (Spui25.nl)
 
 `2016 - 2017`
 __Mediamatic |__ Distiller
-- Designed, built, and demonstrated a bespoke still to be used in artistic olfactory research. (Mediamatic.net)
+- Designed, built, and demonstrated a bespoke still for artistic and olfactory research. (Mediamatic.net)
 
 `2014 - 2016`
-__Betabreak |__ Committee member
-- Organised and presented monthly debates at Amsterdam Science Park to stimulate cross-disciplinary discussion on science and society. (Betabreak.nl)
+__Betabreak at Amsterdam Science Park |__ Committee member
+- Co-organised and presented monthly, cross-disciplinary discussions on science and society. (Betabreak.nl)
 
 ### Teaching
 
 `2015`
 __HLZ (Hervormd Lyceum Zuid) |__ Substitute teacher
-- I taught physics and maths at the  high school in Amsterdam in preparation for the graduation exams. 
+- High school physics and maths. 
 
 `2013 - 2014`
 __Private tutor__
@@ -158,9 +162,14 @@ __Private tutor__
 
 ### Volunteering
 
+
+`2019`
+__Computational Biology Journal Club |__ Co-host
+- Hosted at the MRC Institute of Genetics and Cancer
+
 `2017 - 2018`
 __Anna's Tuin en Ruigte |__ Beekeeper
-- I was the beekeeper at this public permaculture garden. (AnnasTuinEnRuigte.nl)
+- Beekeeper at a public permaculture garden. (AnnasTuinEnRuigte.nl)
 
 `2017`
 __VoorleesExpress |__ Voorlezer
@@ -172,11 +181,10 @@ __Languages__
 - Dutch (native) • English (fluent) • German (fluent) • French (basic)
 
 __Programming__
-- Python • R • Matlab • Nextflow • Processing (Java) • Arduino (C++) • Bash/Zsh • Git • Mathematica
-
+- Python • R • Matlab • Nextflow • Processing (Java) • Arduino (C++) • Bash/Zsh • Git
 
 __Visual__
-- SwiftUI • Photoshop • Grasshopper (Rhino) • After Effects • Latex • Just enough css and html to make this website
+- SwiftUI • Photoshop • Grasshopper (Rhino) • After Effects • LaTeX
 
 
 
