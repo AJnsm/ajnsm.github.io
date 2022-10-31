@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+
+
 <p class="main-col66 bottom-1"> 
 I am based in Berlin, but can be found in Amsterdam and Edinburgh as well. I'm always open to chat about interesting ideas.
 You can contact me on my <a href="mailto:ax.ax.ax.jansmax@xsxmxsx.edx.acx.ukxxxx"
@@ -24,9 +26,7 @@ IGC: MRC Institute of Genetics and Cancer <br>
 The University of Edinburgh <br>
 Western General Hospital Campus, Crewe Road <br>
 Edinburgh EH4 2XU <br> <br> <br>
-</p><br>
-<br>
-<br>
+</p>
 
 
 <h3 class="main-col66"> Berlin </h3>
@@ -34,7 +34,21 @@ Edinburgh EH4 2XU <br> <br> <br>
 Trust <br>
 <a href="https://trust.support" target="_blank"> trust.support</a> <br>
 Kluckstraße 25 <br>
-10785 Berlin
+10785 Berlin <br> <br> <br>
+</p>
+
+
+
+<h3 class="main-col66"> URL </h3>
+<p class="main-col66">
+<a href="https://twitter.com/Abelaer" target="_blank">Twitter</a>
+<br>
+<a rel="me" href="https://mathstodon.xyz/@Abel">Mastodon</a>
+<br>
+<a href="https://github.com/AJnsm" target="_blank">Github</a>
+<br>
+<a href="https://www.linkedin.com/in/abeljansma/" target="_blank">LinkedIn</a>
+
 </p>
 
 
