@@ -27,6 +27,10 @@ url: "https://abeljansma.nl" # the base hostname & protocol for your site, e.g. 
 twitter_username: "abelaer"
 # github_username:  AJnsm
 linkedin_username: "abeljansma"
+mastodon:
+- username: abel
+  instance: mathstodon.xyz
+
 
 # Added info:
 author: Abel Jansma
