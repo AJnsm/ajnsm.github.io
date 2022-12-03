@@ -15,7 +15,8 @@ Berlin | Amsterdam | Edinburgh
     onmouseover="this.href=this.href.replace(/x/g,'');">a.a.a.jansma@sms.ed.ac.uk </a>
 </div>
 
-
+## Academic PDF
+An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2022.pdf" target="_blank">here</a>
 
 ## Currently
 
