@@ -61,7 +61,7 @@ permalink: /projects/
 
 <h2> Art and design </h2>
 
-<p> Before physics, I was in art school, and I've made attempts at reconciling the two. I've made an installation based on fireflies that was exhibited on <a href="https://intothegreatwideopen.nl/programmaonderdeel/noctiluca"> a Dutch art and music festival</a>, and a analog-to-digital music box with projections of growing leafs that were exhibited in the <a href="https://www.kunstraumkreuzberg.de/"> Kunstraum Kreuzberg/Bethanien</a> in Berlin, and the <a href="http://gallery.bridgesmathart.org/exhibitions/2016-bridges-conference/abel-jansma">Bridges 2016 conference</a> in Finland.</p>
+<p> Before physics, I was in art school, and I've made attempts at reconciling the two. I've made an installation based on fireflies that was exhibited on <a href="https://intothegreatwideopen.nl/programmaonderdeel/noctiluca"> a Dutch art and music festival</a>, and a analog-to-digital music box with projections of growing leafs that were exhibited in the <a href="https://www.kunstraumkreuzberg.de/"> Kunstraum Kreuzberg/Bethanien</a> in Berlin, and the <a href="http://gallery.bridgesmathart.org/exhibitions/2016-bridges-conference/abel-jansma">Bridges 2016 conference</a> in Finland.</p><br>
 <section style="display: inline;">
 		<img src="/assets/fireflies_cropped.jpg" height="150">
 </section>
@@ -97,14 +97,14 @@ permalink: /projects/
 
 
 <h2 > The Krullevaar 1 </h2>
-<p>I designed and built a large quadcopter from aluminium, controlled by open source flight control software. It was a lot of fun, but quite dangerous, so I did not fly with it a lot. </p>	
+<p>I designed and built a large quadcopter from aluminium, controlled by open source flight control software. It was a lot of fun, but quite dangerous, so I did not fly with it a lot. </p><br>	
 <section class="bottom-1">
 		<img src="/assets/krullevaar_1.png" height="150">
 		<img src="/assets/krullevaar_2.jpg" height="150">
 </section>
 
 <h2 > School of Machines, Making & Make-Believe </h2>
-<p>At the summer school of Physical Computing at the School of Ma, I built and battled my <a href="https://www.youtube.com/watch?v=NAdLcie-kP0" target="_blank">remote-controlled robot</a>. </p>
+<p>At the summer school of Physical Computing at the School of Ma, I built and battled my <a href="https://www.youtube.com/watch?v=NAdLcie-kP0" target="_blank">remote-controlled robot</a>. </p><br>
 <section class="bottom-1">
 		<img src="/assets/pepperhead.jpg" height="150">
 </section>
