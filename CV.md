@@ -58,6 +58,10 @@ A list is also available <a href="https://scholar.google.com/citations?user=INJd
 
 
 ### Articles
+`2023`
+__A compositional game to fairly divide homogeneous cake__ (A. Jansma, 2023)
+ - <a href="https://arxiv.org/abs/2301.02281" target="_blank"> Arxiv link </a>
+
 `2022`
 __Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information__ (A. Jansma, 2022)
  - <a href="https://arxiv.org/abs/2205.04440" target="_blank"> Arxiv link </a>, <a href="https://twitter.com/Abelaer/status/1523998394376769537" target="_blank"> Summary on Twitter </a>
@@ -96,7 +100,15 @@ __OpenProcessing.org__
 
 
 
+## Awards
+`2022 - Present`
+__Ethereum Foundation |__ Protocol Fellowship
+- Working with the Robust Incentives group and the Institute for Categorical Cybernetics (CyberCat).
+- I model flows of information and resources in complex systems using category theory. 
 
+`2015 - 2017`
+__ASML |__ Technology Scholarship
+- Selected as one of 25 graduates nationwide for a two-year professional development programme, focused on leadership in technology.
 
 
 
@@ -110,7 +122,6 @@ __University of Edinburgh |__ PhD Candidate
 - Jointly supervised by prof. Chris Ponting and dr. Ava Khamseh at the **Human Genetics Unit**, and prof. Luigi Del Debbio at the **Particle Physics Theory** group. 
 <!-- - I co-organised the computational biology journal club, and
 participated in the Digital Health Product Forge hackathon 2019. -->
-
 
 `2017 - 2018`
 __University of Amsterdam |__ Theoretical Physics dept.
@@ -126,17 +137,9 @@ __University of Amsterdam |__ Computational Science dept.
 
 ### Professional
 
-`2022 - Present`
-__Ethereum Foundation |__ Protocol Fellow
-- Modelling value flows with compositional game theory
-
 `2017 - 2018`
 __SciPost |__ Information Officer
 - SciPost is a completely open scientific publishing company. I helped expand the editorial board, profiling and contacting potential new editors. (Scipost.org)
-
-`2015 - 2017`
-__ASML |__ Technology Scholar
-- Selected as one of 25 graduates nationwide for a two-year professional development programme, focused on leadership in technology.
 
 `2017`
 __SPUI25 |__ Member of the Junior Editorial Board
@@ -176,13 +179,14 @@ __Anna's Tuin en Ruigte |__ Beekeeper
 __VoorleesExpress |__ Voorlezer
 - I read books to children whose parents were not able to. (VoorleesExpress.nl)
 
+
 ## Skills
 
 __Languages__
 - Dutch (native) • English (fluent) • German (fluent) • French (basic)
 
 __Programming__
-- Python • R • Matlab • Nextflow • Processing (Java) • Arduino (C++) • Bash/Zsh • Git
+- Python • R • Nextflow • Haskell • Processing • Arduino • bash/zsh • Git
 
 __Visual__
 - SwiftUI • Photoshop • Grasshopper (Rhino) • After Effects • LaTeX
