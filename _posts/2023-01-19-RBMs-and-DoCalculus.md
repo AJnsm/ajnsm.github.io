@@ -7,7 +7,7 @@ tags: machine-learning causality maths dualities-in-statistics
 ---
 
 
-Generative models are often used to sample from conditional distributions--a process known as *inpainting*. One of the most fundamental kinds of generative models is called a restricted Boltzmann machine (RBM), which is essentially a bipartite, glassy Ising model. Inpainting with RBMs is usually done by sampling from the visible layer while fixing the value of some visible nodes, which is an *intervention*, not a passive observation. I could not find a proof that the resulting interventional sampling distribution approaches the conditional distribution, so here follows an argument that it in fact does (in the case of Gibbs sampling), based on the do-calculus. 
+Generative models, in particular energy-based models, are often used to sample from conditional distributions--a process known as *inpainting*. One of the most fundamental kinds of generative energy-based models is called a restricted Boltzmann machine (RBM), which is essentially a bipartite, glassy Ising model. Inpainting with RBMs is usually done by sampling from the visible layer while fixing the value of some visible nodes, which is an *intervention*, not a passive observation. I could not find a proof that the resulting interventional sampling distribution approaches the conditional distribution, so here follows an argument that it in fact does (in the case of Gibbs sampling), based on the do-calculus. 
 
 <br>
 
