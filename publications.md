@@ -40,9 +40,10 @@ An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2022.pdf"
 
 <br>
 <h4>Code</h4>
-<a href="https://www.openprocessing.org/sketch/1211361" target="_blank"> Leaf venation simulation </a> Openprocessing.org, 2014. <br>
+<a href="https://github.com/AJnsm/ParallelTemperingForRBMs" target="_blank"> Training RBMs with parallel tempering </a> Github, 2019 <br>
+<a href="https://www.openprocessing.org/sketch/1211361" target="_blank"> Leaf venation simulation </a> (ran by ~700 users) Openprocessing.org, 2014. <br>
 <a href="https://www.openprocessing.org/sketch/128903" target="_blank"> Firefly synchronisation</a> (ran by ~5k users)  Openprocessing.org, 2014. <br>
-<a href="https://www.openprocessing.org/sketch/126516" target="_blank"> Flocking simulations with predators</a> (ran by ~15k users, forked ~20 times)  Openprocessing.org, 2013.
+<a href="https://www.openprocessing.org/sketch/126516" target="_blank"> Flocking simulations with predators</a> (ran by ~16k users, forked ~25 times)  Openprocessing.org, 2013.
 
 
 <br>
