@@ -10,7 +10,7 @@ An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2022.pdf"
 <br>
 <h4>Articles</h4>
 <ul>
-	<li><i>A compositional game to fairly divide homogeneous cake</i> - <a href="https://arxiv.org/abs/2301.02281" target="_blank"> arXiv.org </a>  (under review at Compositionality)</li>
+	<li><i>A compositional game to fairly divide homogeneous cake</i> - <a href="https://arxiv.org/abs/2301.02281" target="_blank"> arXiv.org </a>  (to be presented at ACT 2023)</li>
 	<li><i>Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information</i> - <a href="https://arxiv.org/abs/2205.04440" target="_blank"> arXiv.org </a> (published in <a href="https://www.mdpi.com/1099-4300/25/4/648" target="_blank"> Entropy</a>) </li>
 </ul>
 
