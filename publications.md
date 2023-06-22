@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <h4>Academic PDF</h4>
-An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2022.pdf" target="_blank">here</a>
+An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2023.pdf" target="_blank">here</a>
 
 <br>
 <h4>Articles</h4>
@@ -17,6 +17,9 @@ An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2022.pdf"
 <br>
 <h4>Talks and conferences</h4>
 <ul>
+	<li><i>A Compositional Game to Fairly Divide Homogeneous Cake</i>  - Applied Category Theory 2023 (Aug 2023, upcoming) </li>
+	<li><i>The information theory of higher-order interactions</i> - Dutch Institute for Emergent Phenomena, Institute for Advanced Study, June 2023. <a href="/assets/diep_pres.pdf" target="_blank"> Slides </a></li>
+	<li><i>Higher-Order Interactions and Their Duals Reveal Synergy and Logical Dependence beyond Shannon-Information</i> - DEMICS23, Max Planck Institute for the Physics of Complex Systems, June 2023. <a href="/assets/demics23_pres.pdf" target="_blank"> Slides </a></li>
 	<li><i>Cybergenetic networks in the mouse brain: higher-order gene regulation and Boolean logic</i> - IGC Biomedical Genomics section meeting, Dec 2021. </li>
 	<li><i>Cybergenetic in-and-outeractions: Searching for strange loops in the mouse brain</i> - De Las Cuevas Group, University of Innsbruck, Sep 2021. </li>
 	<li><i>Genetic Interactions and Information Lattices</i> - Mathematical Quantum Physics group, University of Innsbruck, Juli 2021. </li>
