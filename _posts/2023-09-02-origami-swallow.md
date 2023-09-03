@@ -6,7 +6,7 @@ author: Abel Jansma
 tags: miscellaneous
 ---
 
-I was completley mesmerised by the swallows in Portugal, and while playing around with some origami paper, I came up with this simple design for an origami swallow. It is based on the famous 'crane base' (steps 1-7), and implements many folds used in the standard Orizuru crane (inside-reverse folds for the wings, narrowing the bottom two flaps, etc). 
+I was completely mesmerised by the swallows in Portugal, and while playing around with some origami paper, I came up with this simple design for an origami swallow. It is based on the famous 'crane base' (steps 1-7), and implements many folds used in the standard Orizuru crane (inside-reverse folds for the wings, narrowing the bottom two flaps, etc). 
 
 ## Step 1 
 
