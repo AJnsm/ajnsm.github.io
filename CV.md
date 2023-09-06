@@ -1,4 +1,11 @@
 ---
+permalink: /CV
+redirect_to:
+  - https://abeljansma.nl/assets/AbelJansma_CV_2023.pdf
+---
+
+
+<!-- ---
 layout: cv
 title: Abel's CV
 ---
@@ -120,8 +127,6 @@ __ASML |__ Technology Scholarship
 __University of Edinburgh |__ PhD Candidate
 - Funded through the Precision Medicine programme. 
 - Jointly supervised by prof. Chris Ponting and dr. Ava Khamseh at the **Human Genetics Unit**, and prof. Luigi Del Debbio at the **Particle Physics Theory** group. 
-<!-- - I co-organised the computational biology journal club, and
-participated in the Digital Health Product Forge hackathon 2019. -->
 
 `2017 - 2018`
 __University of Amsterdam |__ Theoretical Physics dept.
@@ -194,4 +199,4 @@ __Visual__
 
 
 
-
+ -->
