@@ -107,7 +107,7 @@ Close and flatten along the edges previously not touching.
 <br>
 
 
-## Step 1.
+## Step 10.
 
  Fold along the bottom diagonals.
 
@@ -118,7 +118,7 @@ Close and flatten along the edges previously not touching.
 <br>
 
 
-## Step 1.
+## Step 11.
 
  Open the two wings with an inside reverse fold. This is a free fold that determines the angle of the wings.
 
@@ -129,7 +129,7 @@ Close and flatten along the edges previously not touching.
 <br>
 
 
-## Step 1.
+## Step 12.
 
  Fold open the v-shaped tail. This is another free fold. 
 
