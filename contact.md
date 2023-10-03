@@ -21,22 +21,23 @@ I am based in Berlin, but can be found in Leipzig and Edinburgh as well. I'm alw
 <ul>
 	<li> <a href="https://www.mis.mpg.de" target="_blank">Max Planck Institute for Mathematics in the Sciences </a><br> </li>
 Room A309<br>
-Inselstraße 22<br>
 Leipzig, Germany<br>
 <a href="mailto:axbxexl.jxaxnxsxmxax@mxixs.mxpxg.xdxe"
     onmouseover="this.href=this.href.replace(/x/g,'');">email me</a>
 
+<br>
+<br>
 
 <li> <a href="https://web.inf.ed.ac.uk/quantum-informatics" target="_blank"> Quantum Informatics</a><br> </li>
-School of Informatics<br>
-University of Edinburgh<br>
-10 Crichton Street<br>
+School of Informatics, University of Edinburgh<br>
 Edinburgh, Scotland<br>
 <a href="mailto:ax.ax.ax.jansmax@xsxmxsx.edx.acx.ukxxxx"
     onmouseover="this.href=this.href.replace(/x/g,'');">email me</a>
 </ul>
 </p>
 
+
+<br>
 
 <h3 class="main-col"> URL </h3>
 <p class="main-col">

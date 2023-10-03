@@ -1,8 +1,8 @@
----
+<!-- ---
 permalink: /CV
 redirect_to:
   - https://abeljansma.nl/assets/AbelJansma_CV_2023.pdf
----
+--- -->
 
 
 <!-- ---
