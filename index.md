@@ -12,7 +12,7 @@ layout: home
 			
 		</p>
 		<p>	
-			I sometimes get distracted by completely unrelated projects. A few of those are listed <a href="/projects">here</a>. 
+			I sometimes get distracted by completely unrelated projects. A few of those are listed <a href="/projects">here</a>.  
 		</p>	
 	</section>
 	<section class="main-col33">
