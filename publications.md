@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <h4>Academic PDF</h4>
-An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2023.pdf" target="_blank">here</a>
+An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2024a.pdf" target="_blank">here</a>
 
 <br>
 <h4>Articles</h4>
