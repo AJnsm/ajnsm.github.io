@@ -41,11 +41,18 @@ An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2023.pdf"
 <br>
 
 
+<h4>PhD Thesis</h4>
+<a href="/assets/JansmaAbel_PhDThesis_corrected.pdf" target="_blank"> Higher-order interactions in single-cell gene expression: towards a cybergenetic semantics of cell state </a> University of Edinburgh, A. Jansma 2023.
+
+<br>
+
+
 <h4>MSc. Thesis</h4>
 <a href="/assets/mscThesis.pdf" target="_blank"> E<sub>8</sub> symmetry structures in the Ising model </a> University of Amsterdam, A. Jansma 2018.
 
 <br>
 <h4>Code</h4>
+<a href="https://github.com/AJnsm/Stator" target="_blank"> Stator: cell state inference from gene expression data </a> Github, 2023 <br>
 <a href="https://github.com/AJnsm/ParallelTemperingForRBMs" target="_blank"> Training RBMs with parallel tempering </a> Github, 2019 <br>
 <a href="https://www.openprocessing.org/sketch/1211361" target="_blank"> Leaf venation simulation </a> (ran by ~700 users) Openprocessing.org, 2014. <br>
 <a href="https://www.openprocessing.org/sketch/128903" target="_blank"> Firefly synchronisation</a> (ran by ~5k users)  Openprocessing.org, 2014. <br>
