@@ -14,7 +14,7 @@ This should make higher-order information decompositions much more straightforwa
 
 <br>
 
-Given a set $S$, the powerset $\mathcal{P}(S)$ is the set of all subsets of $S$. From this set, one can create a partially ordered set $P=(\mathcal{P}(S), \leq)$, where we impose the following ordering. For $s, t \in \mathcal{P}(S)$, we say that $s \leq t$ if and only if $s \subseteq t$. This is a partial ordering because not all pairs of elements are comparable. For example, if $S=\{1,2,3\}$, then $\{1\}$ and $\{2\}$ are not comparable, but it's clear that $\{1\} \leq \{1,2\}$.
+Given a set $S$, the powerset $\mathcal{P}(S)$ is the set of all subsets of $S$. From this set, one can create a partially ordered set $P=(\mathcal{P}(S), \leq)$, where we impose the following ordering. For $s, t \in \mathcal{P}(S)$, we say that $s \leq t$ if and only if $s \subseteq t$. This is a partial ordering because not all pairs of elements are comparable. For example, if $S=\\{1,2,3\\}$, then $\\{1\\}$ and $\\{2\\}$ are not comparable, but it's clear that $\\{1\\} \leq \\{1,2\\}$.
 
 <br>
 
@@ -24,7 +24,7 @@ Now one can imagine functions $f: P^n \to \mathbb{C}$ on this poset. Of particul
 $$
 \mu(s,t) = \begin{cases}
 1 & \text{if } s = t \\
--\sum_{s < u \leq t} \mu(s,u) & \text{if } s < t\\
+-\sum_{s < u \leq t} \mu(u, t) & \text{if } s < t\\
 0 & \text{otherwise }\\
 \end{cases}
 $$
@@ -66,11 +66,11 @@ I(\{X_1, \ldots, X_n\}; Y) = \sum_{a \in A} \Pi(a; Y)
 $$
 
 
-To identify what the information atoms are in terms of already known information quantities, we can interpret $I(\{X_1, \ldots, X_n\}; Y)$ as a function $I: A \to \mathbb{R}$, and then apply the Möbius inversion theorem to find the information atoms $\Pi(a; Y)$.
+To identify what the information atoms are in terms of already known information quantities, we can interpret $I(\\{X_1, \ldots, X_n\\}; Y)$ as a function $I: A \to \mathbb{R}$, and then apply the Möbius inversion theorem to find the information atoms $\Pi(a; Y)$.
 
 <br>
 
-The problem is that we don't have a closed form solution for the Möbius function on $A$. If we did, we could calculate arbitrary information atoms and pinpoint exactly which parts of a system show synergistic information processing. In addition, a brute-force calculation is very hard, as the number of antichains grows superexponentially with the number of variables. In fact, the number of antichains on a set of $n$ variables is given by the $n$'th Dedekind number (minus two). This list of the first few Dedekind numbers might give you an idea of [how incredibly fast this sequence grows](https://oeis.org/A000372): 	2, 3, 6, 20, 168, 7581, 7828354, 2414682040998, 56130437228687557907788. 
+The problem is that we don't have a closed form solution for the Möbius function on $A$. If we did, we could calculate arbitrary information atoms and pinpoint exactly which parts of a system show synergistic information processing. In addition, a brute-force calculation is very hard, as the number of antichains grows superexponentially with the number of variables. In fact, the number of antichains on a set of $n$ variables is given by the $n$'th Dedekind number (minus two), which is [a series](https://oeis.org/A000372) that grows so fast that only the first nine terms are known: 2, 3, 6, 20, 168, 7581, 7828354, 2414682040998, 56130437228687557907788, 286386577668298411128469151667598498812366. That last term was, in fact, [first calculated in 2023](https://www.uni-paderborn.de/en/news-item/123917). 
 
 <br>
 
