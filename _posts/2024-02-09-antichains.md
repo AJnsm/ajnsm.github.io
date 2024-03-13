@@ -6,6 +6,11 @@ author: Abel Jansma
 tags: information-theory maths cybernetics 
 ---
 
+UPDATE: I have now found an explicit formula for the Möbius function on the redundancy lattice. This will appear in a preprint soon.
+
+<br>
+
+
 I calculated the full Möbius function on the lattice of powerset antichains of 2, 3, and 4 variables. As far as I can tell, these results have not been shared before, although I'm sure the 2- and 3-variable case has been calculated but not shared many times before. The results and the code are available [here](https://github.com/AJnsm/latticeOfAntichains).
 
 <br>

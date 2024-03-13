@@ -4,6 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
+
+<h2> Autolenghi </h2>
+<p>I created an AI cooking assistant in 2022, and developed <a href="https://apps.apple.com/pl/app/autolenghi/id6443726067"><b>an iOS app</b></a> for it. It was based on a GPT-3 base model, which I fine-tuned by scraping the web for recipes by Yotam Ottolenghi. Shortly after the release, LLMs became available to the general public, which immediately made the app somewhat obsolete so I stopped paying Apple's developer fees and took it off the app store.
+</p><br>
+<section style="display: inline;">
+		<img src="/assets/autolenghi/autolenghi_1.png" height="200">
+</section>
+<section style="display: inline;">
+		<img src="/assets/autolenghi/autolenghi_2.png" height="200">
+</section><br>
+
 <h2> Origami Swallow </h2>
 <p>I came up with an origami design for a swallow. Instructions <a href="/2023/09/02/origami-swallow.html"><b>here</b></a>.
 </p><br>
