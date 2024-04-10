@@ -5,13 +5,13 @@ permalink: /publications/
 ---
 
 <h4>Academic PDF</h4>
-An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2024a.pdf" target="_blank">here</a>.
+An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank">here</a>.
 
 <br>
 <h4>Articles</h4>
 <ul>
 	<li><i>A unified approach to higher-order structure in complex systems </i>  - Jansma, 2024 (forthcoming). </li>
-	<li><i>Multipartite Entanglement in Ising-coupled Quantum States </i>  - Jansma, 2024 (forthcoming). </li>
+	<li><i>Superdense Coding and Stabiliser Codes with Ising-coupled Entanglement </i>  - Jansma, 2024. </li>
 	<li><i>High order expression dependencies finely resolve cryptic states and subtypes in single cell data</i> - <a href="https://www.biorxiv.org/content/10.1101/2023.12.18.572232v1" target="_blank"> bioRxiv.org </a>, under review at <i>Molecular Systems Biology</i></li>
 	<li><i>A compositional game to fairly divide homogeneous cake</i> - <a href="https://arxiv.org/abs/2301.02281" target="_blank"> arXiv.org </a>, under review at <i>JAIR</i></li>
 	<li><i>Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information</i> - <a href="https://arxiv.org/abs/2205.04440" target="_blank"> arXiv.org </a> (published in <a href="https://www.mdpi.com/1099-4300/25/4/648" target="_blank"> Entropy</a>) </li>
