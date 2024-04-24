@@ -10,7 +10,7 @@ An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV.pdf" targ
 <br>
 <h4>Articles</h4>
 <ul>
-	<li><i>A Compositional Approach to Higher-Order Structure in Complex Systems </i>  - Jansma, 2024 (forthcoming). </li>
+	<li><i>A Compositional Approach to Higher-Order Structure in Complex Systems </i>  - Jansma, 2024 - <a href="https://arxiv.org/abs/2404.14423" target="_blank"> arXiv.org </a> </li>
 	<li><i>Superdense Coding and Stabiliser Codes with Ising-coupled Entanglement </i>  - Jansma, 2024 - <a href="https://arxiv.org/abs/2404.06454" target="_blank"> arXiv.org </a> </li>
 	<li><i>High order expression dependencies finely resolve cryptic states and subtypes in single cell data</i> - Jansma et al., 2023 - <a href="https://www.biorxiv.org/content/10.1101/2023.12.18.572232v1" target="_blank"> bioRxiv.org </a>, under review at <i>Molecular Systems Biology</i></li>
 	<li><i>A compositional game to fairly divide homogeneous cake</i> - Jansma, 2024 - <a href="https://arxiv.org/abs/2301.02281" target="_blank"> arXiv.org </a>, under review at <i>JAIR</i></li>
