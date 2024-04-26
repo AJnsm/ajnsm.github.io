@@ -20,7 +20,7 @@ An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV.pdf" targ
 <br>
 <h4>Talks and conferences</h4>
 <ul>
-	<li><i>A Compositional Approach to Higher-order Structure in Complex Systems</i> - Centre for Complexity Science, Imperial College London, April 2024. </li>
+	<li><i>A Compositional Approach to Higher-order Structure in Complex Systems</i> - Centre for Complexity Science, Imperial College London, April 2024. <a href="/assets/imperial_talk.pdf" target="_blank"> Slides </a> </li>
 	<li><i>Plant Communication: Fact vs. Lore</i> - Multispecies Research Unit, Trust Berlin, March 2024. </li>
 	<li><i>A unified approach to higher-order structure in complex systems </i>  - University of Leipzig, Feb 2024. </li>
 	<li><i>From Genetic Hypergraphs to 
