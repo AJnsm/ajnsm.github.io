@@ -34,8 +34,6 @@ Leipzig, Germany<br>
 <li> <a href="https://web.inf.ed.ac.uk/quantum-informatics" target="_blank"> Quantum Informatics</a><br> </li>
 School of Informatics, University of Edinburgh<br>
 Edinburgh, Scotland<br>
-<a href="mailto:ax.ax.ax.jansmax@xsxmxsx.edx.acx.ukxxxx"
-    onmouseover="this.href=this.href.replace(/x/g,'');">email me</a>
 </ul>
 
 
