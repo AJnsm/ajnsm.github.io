@@ -5,6 +5,15 @@ permalink: /research/
 ---
 <img style="float: right;" src="/assets/research_info/HOIs.png" alt="Image of a combinatorial gene regulation" width="200"/>
 
+**NOTE**
+
+I have recently started a new position at the University of Amsterdam. This means that this page is now slightly out-of-date, but will be updated soon. Stay tuned...
+
+
+<br>
+<br>
+
+
 **Higher-order interactions**
 
 Complex networks are everywhere, and commonly represented as graphs of nodes with interactions. Why graphs? Why restrict interactions to pairwise? Combinatorial and higher-order dependence structures are ubiquitous in Nature, and I'm interested in how to use them to understand complex systems.
@@ -28,7 +37,7 @@ I study the role of *higher-order* interactions in particular in biomedicine, an
 
 **Interactions and information theory**
 
-[I've also shown](https://arxiv.org/abs/2205.04440) how such higher-order interactions are centrally located in the landscape of higher-order information theory. Currently, I'm a postdoc at the <a href="https://www.mis.mpg.de" target="_blank">Max Planck Institute for Mathematics in the Sciences</a>, where I look at the role of higher-order information theory in other complex systems, such as n-qubit quantum circuits. 
+[I've also shown](https://arxiv.org/abs/2205.04440) how such higher-order interactions are centrally located in the landscape of higher-order information theory. While at the <a href="https://www.mis.mpg.de" target="_blank">Max Planck Institute for Mathematics in the Sciences</a> I looked at the role of higher-order information theory in other complex systems, such as <a href="https://arxiv.org/abs/2404.06454" target="_blank">n-qubit quantum circuits</a>. 
 
 <img src="/assets/research_info/commDiag.png" alt="Image of a combinatorial gene regulation" width="600"/>
 

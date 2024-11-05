@@ -11,7 +11,7 @@ permalink: /contact/
 
 
 <section class="main-col66">
-I am based in Berlin, but can be found in Leipzig and Edinburgh as well. I'm always open to chat about interesting ideas.
+I'm always open to chat about interesting ideas.
 
 <br>
 <br>
@@ -22,18 +22,17 @@ I am based in Berlin, but can be found in Leipzig and Edinburgh as well. I'm alw
 <br>
 
 <ul>
-	<li> <a href="https://www.mis.mpg.de" target="_blank">Max Planck Institute for Mathematics in the Sciences </a><br> </li>
-Room A309<br>
-Leipzig, Germany<br>
-<a href="mailto:axbxexl.jxaxnxsxmxax@mxixs.mxpxg.xdxe"
+	<li> <a href="https://iop.uva.nl/itfa/itfa.html" target="_blank">Institute for Theoretical Physics </a><br> </li>
+Science Park 904, Room C4.171<br>
+University of Amsterdam<br>
+<a href="mailto:a.a.a.jxaxnxsxmxax@uva.nl"
     onmouseover="this.href=this.href.replace(/x/g,'');">email me</a>
 
 <br>
 <br>
 
-<li> <a href="https://web.inf.ed.ac.uk/quantum-informatics" target="_blank"> Quantum Informatics</a><br> </li>
-School of Informatics, University of Edinburgh<br>
-Edinburgh, Scotland<br>
+<li> <a href="https://www.illc.uva.nl" target="_blank"> Institute for Logic, Language and Computation</a><br> </li>
+University of Amsterdam<br>
 </ul>
 
 
