@@ -1,25 +1,54 @@
 ---
 layout: page
-title: Publications
+title: 
 permalink: /publications/
 ---
 
-<h3>Academic PDF</h3>
+## Academic PDF
 An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank">here</a>.
 
 <br>
-<h3>Articles</h3>
-<ul>
-	<li><i>The Fast Möbius Transform: An algebraic approach to information decomposition </i>  - Jansma, Mediano, Rosas 2024 - <a href="https://arxiv.org/abs/2410.06224" target="_blank"> arXiv.org </a> </li>
-	<li><i>A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius	 </i>  - Jansma, 2024 - <a href="https://arxiv.org/abs/2404.14423" target="_blank"> arXiv.org </a> </li>
-	<li><i>Superdense Coding and Stabiliser Codes with Ising-coupled Entanglement </i>  - Jansma, 2024 - <a href="https://arxiv.org/abs/2404.06454" target="_blank"> arXiv.org </a> </li>
-	<li><i>High order expression dependencies finely resolve cryptic states and subtypes in single cell data</i> - Jansma et al., 2023 - <a href="https://www.biorxiv.org/content/10.1101/2023.12.18.572232v1" target="_blank"> bioRxiv.org </a>, published in <a href="https://www.embopress.org/doi/full/10.1038/s44320-024-00074-1" target="_blank"> <i>Molecular Systems Biology</i> </a></li>
-	<li><i>A compositional game to fairly divide homogeneous cake</i> - Jansma, 2024 - <a href="https://arxiv.org/abs/2301.02281" target="_blank"> arXiv.org </a></li>
-	<li><i>Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information</i> Jansma 2023 - <a href="https://arxiv.org/abs/2205.04440" target="_blank"> arXiv.org </a>, published in <a href="https://www.mdpi.com/1099-4300/25/4/648" target="_blank"> Entropy</a> </li>
-</ul>
+## Articles
+
+- **High order expression dependencies finely resolve cryptic states and subtypes in single cell data**
+
+	*Abel Jansma, Yuelin Yao, Jareth Wolfe, Luigi Del Debbio, Sjoerd V Beentjes, Chris P Ponting, and Ava Khamseh, Molecular Systems Biology 2025* 
+
+	[ [paper](https://www.embopress.org/doi/full/10.1038/s44320-024-00074-1) \| [preprint](https://www.biorxiv.org/content/10.1101/2023.12.18.572232v1) \| [code](https://github.com/AJnsm/Stator) \| [Twitter thread](https://x.com/CGATist/status/1737030259218747655) ]
+
+- **The Fast Möbius Transform: An algebraic approach to information decomposition**
+
+	*Abel Jansma, Pedro Mediano, and Fernando Rosas, 2024* 
+
+	[ [paper](https://arxiv.org/abs/2410.06224) \| [code](https://github.com/AJnsm/algebraicPID) \| [Twitter thread](https://x.com/Abelaer/status/1844659016993058981) ]
+	
+- **A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius**
+
+	*Abel Jansma, 2024*
+
+	[ [paper](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) ]
+
+- **Superdense Coding and Stabiliser Codes with Ising-coupled Entanglement**
+
+	*Abel Jansma, 2024*
+
+	[ [paper](https://arxiv.org/abs/2404.06454) \| [code](https://github.com/AJnsm/nCoupledCode/blob/main/paperNotebook.ipynb) ]
+
+- **A compositional game to fairly divide homogeneous cake**
+
+	*Abel Jansma, 2023*
+
+	[ [paper](https://arxiv.org/abs/2301.02281) \| [code](https://github.com/AJnsm/open-games-hs/tree/pieCuttingGame/src/Examples) \| [Mathstodon thread](https://mathstodon.xyz/@Abel/109523606965582359) ]
+
+
+- **Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information**
+
+	*Abel Jansma, Entropy 2023*
+
+	[ [paper](https://www.mdpi.com/1099-4300/25/4/648) \| [preprint](https://arxiv.org/abs/2205.04440) [code](https://github.com/AJnsm/open-games-hs/tree/pieCuttingGame/src/Examples) \| [Twitter thread](https://x.com/Abelaer/status/1523998394376769537) ]
 
 <br>
-<h3>Talks and conferences</h3>
+<h2>Talks and conferences</h2>
 <ul>
 	<li><i>A Compositional Approach to Higher-order Structure in Complex Systems</i> - Centre for Complexity Science, Imperial College London, April 2024. <a href="/assets/talk_imperial.pdf" target="_blank"> Slides </a> </li>
 	<li><i>Plant Communication: Fact vs. Lore</i> - Multispecies Research Unit, Trust Berlin, March 2024. </li>
@@ -47,17 +76,17 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <br>
 
 
-<h3>PhD Thesis</h3>
+<h2>PhD Thesis</h2>
 <a href="/assets/JansmaAbel_PhDThesis_corrected.pdf" target="_blank"> Higher-order interactions in single-cell gene expression: towards a cybergenetic semantics of cell state </a> University of Edinburgh, A. Jansma 2023.
 
 <br>
 
 
-<h3>MSc Thesis</h3>
+<h2>MSc Thesis</h2>
 <a href="/assets/mscThesis.pdf" target="_blank"> E<sub>8</sub> symmetry structures in the Ising model </a> University of Amsterdam, A. Jansma 2018.
 
 <br>
-<h3>Code</h3>
+<h2>Code</h2>
 <a href="https://github.com/AJnsm/Stator" target="_blank"> Stator: cell state inference from gene expression data </a> Github, 2023 <br>
 <a href="https://github.com/AJnsm/ParallelTemperingForRBMs" target="_blank"> Training RBMs with parallel tempering </a> Github, 2019 <br>
 <a href="https://www.openprocessing.org/sketch/1211361" target="_blank"> Leaf venation simulation </a> (ran by ~700 users) Openprocessing.org, 2014. <br>
@@ -66,7 +95,7 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 
 
 <br>
-<h3>Outreach</h3>
+<h2>Outreach</h2>
 <a href="https://www.quantumuniverse.nl/over-vogels-en-vuurvliegjes" target="_blank"> Over vogels en vuurvliegjes </a> Quantumuniverse.nl 2019.<br>
 <a href="https://www.quantumuniverse.nl/solitonen-het-zwembad" target="_blank"> Solitonen in het zwembad </a> Quantumuniverse.nl 2019.<br>
 <a href="https://www.mediamatic.net/en/page/284175/distillation-101" target="_blank"> Distillation 101 </a> Mediamatic.net 2016.
