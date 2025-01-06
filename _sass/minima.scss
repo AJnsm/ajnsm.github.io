@@ -5,7 +5,7 @@
 //$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, //Arial, sans-serif, "Apple Color Emoji", "Segoe UI E
 //Emoji", "Segoe UI Symbol" !default;
 
-$base-font-family: 'Nunito Sans','Crimson text','Libre Baskerville', serif; //Add 'Nunito Sans' to beginning to make all sans.
+$base-font-family: 'Nunito Sans', sans-serif; //Add 'Nunito Sans' to beginning to make all sans.
 
 
 
@@ -58,3 +58,15 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+h1 {
+  font-family: 'JetBrains Mono', sans-serif;
+}
+
+h2 {
+  font-family: 'JetBrains Mono', sans-serif;
+}
+h3 {
+  font-family: 'JetBrains Mono', sans-serif;
+}
+

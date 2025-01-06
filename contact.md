@@ -40,6 +40,7 @@ University of Amsterdam<br>
 
 <h3 class="main-col"> URL </h3>
 <ul>
+<li> <a href="https://bsky.app/profile/abelaer.bsky.social" target="_blank">BlueSky</a><br></li>
 <li><a href="https://twitter.com/Abelaer" target="_blank">Twitter/X</a><br></li>
 <li><a rel="me" href="https://mathstodon.xyz/@Abel">Mastodon</a><br></li>
 <li><a href="https://github.com/AJnsm" target="_blank">Github</a><br></li>
