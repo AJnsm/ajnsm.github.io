@@ -4,7 +4,7 @@ layout: default
 
 <div class="default">
   {%- if page.title -%}
-    <h1">{{ page.title }} </h1>
+    <h3">{{ page.title }} </h3>
   {%- endif -%}
   <br>
   <h1>Hello World</h1>
@@ -17,18 +17,18 @@ layout: default
       <li class="post-list">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h5>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
+        </h5>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
       {%- endfor -%}
       <br>
-      Or see <a href="/blog"">all posts</a>
+      or see <a href="/blog"">all posts</a>
     </ul>
     
 

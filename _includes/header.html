@@ -3,7 +3,7 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <h2 class="site-title" style="display: inline; font-size: 1.8em;"><a rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h2>
     
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -23,13 +23,12 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%} -->
-          <a class="page-link" href="/research"> Research </a>
-          <a class="page-link" href="/blog"> Blog </a>
-          <a class="page-link" href="/projects"> Projects </a>
-          <a class="page-link" href="/publications"> Publications </a>
-          <a class="page-link" href="/assets/AbelJansma_CV.pdf" target="_blank"> CV </a>
-          <!-- <a class="page-link" href="/assets/CV_AbelJansma.pdf" target="_blank"> CV </a> -->
-          <a class="page-link" href="/contact"> Contact </a>
+            <h5 class="page-link" style="display: inline; font-size: 1em;"><a href="/publications"> Publications </a></h5>   
+            <h5 class="page-link" style="display: inline; font-size: 1em;"><a href="/assets/AbelJansma_CV.pdf" target="_blank"> CV </a></h5>
+            <h5 class="page-link" style="display: inline; font-size: 1em;"><a href="/research"> Research </a></h5>
+            <h5 class="page-link" style="display: inline; font-size: 1em;"><a href="/blog"> Blog </a></h5>
+            <h5 class="page-link" style="display: inline; font-size: 1em;"><a href="/projects"> Projects </a></h5>
+            <h5 class="page-link" style="display: inline; font-size: 1em;"><a href="/contact"> Contact </a></h5>
         </div>
       </nav>
     {%- endif -%}

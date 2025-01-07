@@ -1,8 +1,18 @@
 ---
 layout: page
-title: Projects
+title: 
 permalink: /projects/
 ---
+
+
+<h2> Penrose Blobbings </h2>
+<p>I've been creating Penrose tiles with arcs on them, so that tilings are mapped to blobbings. Each of the two Penrose tiles can get arcs horizontally or vertically across. The tiling is fixed by demanding aperiodocity, so a single parameter determines the blobbing. Here are some examples of aperiodic blobbings with blob ratio between 0 and 1. Code available <a href="https://github.com/AJnsm/penrose_blobbings/tree/main" target="_blank"><b>here</b></a>.
+</p><br>
+<section style="display: inline;">
+		<img src="/assets/penrose_blob_collage.pdf" height="500">
+</section>
+
+
 
 <h2> Origami Swallow </h2>
 <p>I came up with an origami design for a swallow. Instructions <a href="/2023/09/02/origami-swallow.html"><b>here</b></a>.

@@ -6,7 +6,7 @@
 //Emoji", "Segoe UI Symbol" !default;
 
 $base-font-family: 'Nunito Sans', sans-serif; //Add 'Nunito Sans' to beginning to make all sans.
-
+// $base-font-weight: 100;
 
 
 $base-font-size:   16px !default;
@@ -59,14 +59,8 @@ $on-laptop:        800px !default;
   "minima/syntax-highlighting"
 ;
 
-h1 {
-  font-family: 'JetBrains Mono', sans-serif;
+h1, h2, h3, h4 {
+  font-family: 'Roboto Serif', 'Libre Baskerville', serif;
+  // text-transform: uppercase;
+  // font-style: italic;
 }
-
-h2 {
-  font-family: 'JetBrains Mono', sans-serif;
-}
-h3 {
-  font-family: 'JetBrains Mono', sans-serif;
-}
-

@@ -16,7 +16,7 @@ I'm always open to chat about interesting ideas.
 <br>
 <br>
 
-<h3 class="main-col66"> Affiliations </h3>
+<h2 class="main-col66"> Affiliations </h2>
 
 <br>
 <br>
@@ -38,7 +38,7 @@ University of Amsterdam<br>
 
 <br>
 
-<h3 class="main-col"> URL </h3>
+<h2 class="main-col"> URL </h2>
 <ul>
 <li> <a href="https://bsky.app/profile/abelaer.bsky.social" target="_blank">BlueSky</a><br></li>
 <li><a href="https://twitter.com/Abelaer" target="_blank">Twitter/X</a><br></li>

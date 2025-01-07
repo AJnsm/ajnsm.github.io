@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 
+title: Publications
 permalink: /publications/
 ---
 
-## Academic PDF
+## Academic CV
 An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank">here</a>.
 
 <br>
@@ -12,41 +12,58 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 
 - **High order expression dependencies finely resolve cryptic states and subtypes in single cell data**
 
-	*Abel Jansma, Yuelin Yao, Jareth Wolfe, Luigi Del Debbio, Sjoerd V Beentjes, Chris P Ponting, and Ava Khamseh, Molecular Systems Biology 2025* 
-
+	Abel Jansma, Yuelin Yao, Jareth Wolfe, Luigi Del Debbio, Sjoerd V Beentjes, Chris P Ponting, and Ava Khamseh, *Molecular Systems Biology 2025* 
+	
 	[ [paper](https://www.embopress.org/doi/full/10.1038/s44320-024-00074-1) \| [preprint](https://www.biorxiv.org/content/10.1101/2023.12.18.572232v1) \| [code](https://github.com/AJnsm/Stator) \| [Twitter thread](https://x.com/CGATist/status/1737030259218747655) ]
-
+	<details>
+			<summary>tl;dr</summary> We introduce Stator, a new computational method that reveals hidden cell states in single-cell data by analysing how genes work together, rather than just looking at where cells cluster. Unlike traditional methods, Stator can label a single cell with multiple states simultaneously-like being both a neuron and in a specific phase of cell division-giving us a more complete picture of what cells are doing. Stator even finds substructure within homogeneous populations!</details>
+	<br>
+	
 - **The Fast Möbius Transform: An algebraic approach to information decomposition**
 
-	*Abel Jansma, Pedro Mediano, and Fernando Rosas, 2024* 
+	Abel Jansma, Pedro Mediano, and Fernando Rosas, *2024* 
 
 	[ [paper](https://arxiv.org/abs/2410.06224) \| [code](https://github.com/AJnsm/algebraicPID) \| [Twitter thread](https://x.com/Abelaer/status/1844659016993058981) ]
+	<details>
+			<summary>tl;dr</summary> We present a way to calculate how information is shared between multiple variables in complex systems, distinguishing between redundant, synergistic, and unique information. By leveraging algebraic properties of information decomposition, the method makes previously intractable analyses possible. We demonstrate this on brain activity data, and baroque music compositions.</details>
+	<br>
 	
 - **A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius**
 
-	*Abel Jansma, 2024*
+	Abel Jansma, *2024*
 
 	[ [paper](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) ]
-
+	<details>
+			<summary>tl;dr</summary> We present a unified mathematical framework to describe how breaking down complex systems (like brains, molecules, or social networks) into parts determines what kinds of interactions we can discover between those parts. Using an algebraic method called Möbius inversion, this relates large-scale observations to microscopic and "higher-order" interactions.</details>
+	<br>
+	
 - **Superdense Coding and Stabiliser Codes with Ising-coupled Entanglement**
 
-	*Abel Jansma, 2024*
+	Abel Jansma, *2024*
 
 	[ [paper](https://arxiv.org/abs/2404.06454) \| [code](https://github.com/AJnsm/nCoupledCode/blob/main/paperNotebook.ipynb) ]
-
+	<details>
+			<summary>tl;dr</summary> We introduce a new family of quantum states that contain the statistics of strongly coupled Ising models in their entanglement structure. These states enable quantum communication protocols and error correction codes that might offer some advantages over traditional ones. </details>
+	<br>
+	
 - **A compositional game to fairly divide homogeneous cake**
 
-	*Abel Jansma, 2023*
+	Abel Jansma, *2023*
 
 	[ [paper](https://arxiv.org/abs/2301.02281) \| [code](https://github.com/AJnsm/open-games-hs/tree/pieCuttingGame/src/Examples) \| [Mathstodon thread](https://mathstodon.xyz/@Abel/109523606965582359) ]
-
-
+	<details>
+			<summary>tl;dr</summary> Ever wonder how to split a cake fairly when people can't all be in the same room? Here's a solution: after each cut, make whoever has the biggest piece do the next cutting. While most cake-cutting research assumes that people prefer different flavors and toppings, we argue that even splitting a plain cake is tricky - naive approaches end up super unfair. This "biggest piece cuts next" rule ensures everyone gets exactly their fair share.</details>
+	<br>
+	
 - **Higher-order in-and-outeractions reveal synergy and logical dependence beyond Shannon-information**
 
-	*Abel Jansma, Entropy 2023*
+	Abel Jansma, *Entropy 2023*
 
-	[ [paper](https://www.mdpi.com/1099-4300/25/4/648) \| [preprint](https://arxiv.org/abs/2205.04440) [code](https://github.com/AJnsm/open-games-hs/tree/pieCuttingGame/src/Examples) \| [Twitter thread](https://x.com/Abelaer/status/1523998394376769537) ]
-
+	[ [paper](https://www.mdpi.com/1099-4300/25/4/648) \| [preprint](https://arxiv.org/abs/2205.04440) \| [code](https://github.com/AJnsm/open-games-hs/tree/pieCuttingGame/src/Examples) \| [Twitter thread](https://x.com/Abelaer/status/1523998394376769537) ]
+	<details>
+			<summary>tl;dr</summary> By relating higher-order Ising interactions to concepts from algebra and information theory, we can better detect and measure interactions in complex systems - from logic gates to gene networks. The paper shows these new measures can distinguish between systems that look identical using traditional methods.</details>
+	<br>
+	
 <br>
 <h2>Talks and conferences</h2>
 <ul>
