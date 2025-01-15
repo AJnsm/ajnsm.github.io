@@ -3,3 +3,24 @@
 ---
 
 @import "minima";
+
+.site-header .wrapper {
+  border-bottom: 3px solid black;
+  padding-bottom: 0px;  /* Adds some space between the content and the line */
+  margin-bottom: 25px;
+}
+
+.site-nav {
+  margin-bottom: -3px;  /* Reduces space between nav menu and line */
+}
+
+.site-nav .page-link a,
+.site-title a {
+  color: black;  /* Makes all links black by default */
+}
+
+.site-nav .page-link a:hover,
+.site-title a:hover {
+  color: $brand-color;  /* Changes to blue on hover */
+  text-decoration: none;  /* Optional: removes underline on hover */
+}

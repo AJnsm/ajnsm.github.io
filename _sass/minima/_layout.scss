@@ -3,8 +3,8 @@
  */
 .site-header {
   font-family: $headAndFoot-font-family;
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 0px solid $grey-color-light;
+  border-top: 30px solid $background-color;
+  border-bottom: 0px solid $background-color;
   min-height: $spacing-unit * 1.865;
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -13,9 +13,9 @@
 }
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 600;
-  line-height: $base-line-height * $base-font-size * 4.25;
+  @include relative-font-size(1.0);
+  font-weight: $base-font-weight;
+  line-height: $base-line-height * $base-font-size * 3.00;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -23,7 +23,7 @@
 
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 4.25;
+  line-height: $base-line-height * $base-font-size * 3.00;
 
   .nav-trigger {
       display: none;
@@ -294,6 +294,27 @@
     float: right;
     @extend %clearfix;
 }
+
+.main-col20_l {
+  width:         calc(20% - (#{$spacing-unit} / 2));
+  float: left;
+  @extend %clearfix;
+}
+
+.main-col20_r {
+  width:         calc(20% - (#{$spacing-unit} / 2));
+  float: right;
+  @extend %clearfix;
+}
+
+.main-col60 {
+  //width: -webkit-calc(66% - (#{$spacing-unit} / 2));
+  width:         calc(60% - (#{$spacing-unit} / 2));
+  float: left;
+  @extend %clearfix;
+}
+
+
 
 .makeOrange {
   color: $brand-color;
