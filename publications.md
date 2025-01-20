@@ -65,14 +65,14 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 	<br>
 	
 <br>
-<h2>Talks and conferences</h2>
+<h2>Talks and Conferences</h2>
 <ul>
 	<li><i>A Compositional Approach to Higher-order Structure in Complex Systems</i> - Centre for Complexity Science, Imperial College London, April 2024. <a href="/assets/talk_imperial.pdf" target="_blank"> Slides </a> </li>
 	<li><i>Plant Communication: Fact vs. Lore</i> - Multispecies Research Unit, Trust Berlin, March 2024. </li>
 	<li><i>A unified approach to higher-order structure in complex systems </i>  - University of Leipzig, Feb 2024. </li>
 	<li><i>From Genetic Hypergraphs to 
       Persistent Quantum Entanglement</i> - Max Planck Institute for Mathematics in the Sciences, seminar, Oct 2023. </li>
-	<li><i>A Compositional Game to Fairly Divide Homogeneous Cake</i>  - Applied Category Theory 2023, Aug 2023 (poster). </li>
+	<li><i>A Compositional Game to Fairly Divide Homogeneous Cake</i>  - Applied Category Theory 2023, Aug 2023. <a href="/assets/poster_draft.pdf" target="_blank"> Poster </a></li>
 	<li><i>The information theory of higher-order interactions</i> - Dutch Institute for Emergent Phenomena, Institute for Advanced Study, June 2023. <a href="/assets/diep_pres.pdf" target="_blank"> Slides </a></li>
 	<li><i>Higher-Order Interactions and Their Duals Reveal Synergy and Logical Dependence beyond Shannon-Information</i> - DEMICS23, Max Planck Institute for the Physics of Complex Systems, June 2023. <a href="/assets/demics23_pres.pdf" target="_blank"> Slides </a></li>
 	<li><i>Cybergenetic networks in the mouse brain: higher-order gene regulation and Boolean logic</i> - IGC Biomedical Genomics section meeting, Dec 2021. </li>
