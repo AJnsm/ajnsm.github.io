@@ -3,44 +3,34 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<img style="float: right;" src="/assets/research_info/HOIs.png" alt="Image of a combinatorial gene regulation" width="200"/>
 
-<h3>NOTE</h3>
+This is a brief summary of some of the things I work on. You can find my latest publications with some tl;dr's [here](/publications/). 
 
-I have recently started a new position at the University of Amsterdam. This means that this page is now slightly out-of-date, but will be updated soon. Stay tuned...
+<br><br>
 
+### Foundations and Applications of Emergence
+There is a lot to learn about emergence and complex systems, and everyone uses their own language. My approach is:
+
+<br> 
+- Algebraic 
+    - Algebra comes from the Arabic "al-jabr" which means something like 'bringing parts together'. That makes it a good language for talking about complex systems.
+- Computational
+    - Everything I do gets implemented in code at one point.
+- Compositional
+    - I like thinking about hierarchies, categories, and *openness*
 
 <br>
-<br>
+A lot of this comes together in [this paper](https://arxiv.org/abs/2404.14423), which presents a unified perspective on `higher-order' interactions in complex systems. It turns out that across the sciences, interactions among parts of a system can be described by a common mathematical structure, based on a certain compositional/algebraic view of the world. This turns out to be very useful! Stay tuned...
 
+<br><br>
 
-<h3>Higher-order interactions</h3>
+### Information theory and Biology
+Information theory is a natural bridge between the physical and living systems. I am specifically interested in some extensions of Shannon's theory, such as [information decomposition](https://arxiv.org/abs/2410.06224), [higher-order information theory](https://arxiv.org/abs/2205.04440), and [quantum information](https://arxiv.org/abs/2404.06454). I've applied this to brains, genes, magnets, worms, qubits, Bach's chorales, and more...
+<img src="/assets/mobius_DNA.png" alt="A Möbius strip of DNA" width="400"/>
 
-Complex networks are everywhere, and commonly represented as graphs of nodes with interactions. Why graphs? Why restrict interactions to pairwise? Combinatorial and higher-order dependence structures are ubiquitous in Nature, and I'm interested in how to use them to understand complex systems.
+<br><br>
 
-
-<br>
-<br>
-
-
-<h3>Stator: Higher-order genetic interactions and cells states</h3>
-
-
-I study the role of *higher-order* interactions in particular in biomedicine, and developed a method called [Stator](https://github.com/AJnsm/Stator) to use such higher-order interactions among molecules to identify new cell states hiding in single-cell transcriptomic data sets. [Here](https://www.biorxiv.org/content/10.1101/2023.12.18.572232), we used this to find future fates of embryonic neurons, and liver cancer states that are prognostic of patient survival. 
+### Stator: Higher-order genetic interactions and cells states
+I developed a software package called [Stator](https://github.com/AJnsm/Stator) to use higher-order interactions among RNA molecules to identify new cell states hiding in single-cell transcriptomic data sets. [Here](https://www.embopress.org/doi/full/10.1038/s44320-024-00074-1), we used this to find future fates of embryonic neurons, and liver cancer states that are prognostic of patient survival. 
 <img src="/assets/research_info/CC_states.png" alt="Image of a combinatorial gene regulation" width="600"/>
-
-
-<br>
-<br>
-
-
-
-<h3>Interactions and information theory</h3>
-
-[I've also shown](https://arxiv.org/abs/2205.04440) how such higher-order interactions are centrally located in the landscape of higher-order information theory. While at the <a href="https://www.mis.mpg.de" target="_blank">Max Planck Institute for Mathematics in the Sciences</a> I looked at the role of higher-order information theory in other complex systems, such as <a href="https://arxiv.org/abs/2404.06454" target="_blank">n-qubit quantum circuits</a>. 
-
-<img src="/assets/research_info/commDiag.png" alt="Image of a combinatorial gene regulation" width="600"/>
-
-<br>
-<br>
-
+<img style="float: right;" src="/assets/research_info/HOIs.png" alt="Image of a combinatorial gene regulation" width="200"/>
