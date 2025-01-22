@@ -10,6 +10,16 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <br>
 ## Articles
 
+- **Decomposing Interventional Causality into Synergistic, Redundant, and Unique Components**
+
+	Abel Jansma *2025* 
+	
+	[ [paper](https://arxiv.org/abs/2501.11447) \| [Twitter thread](https://x.com/Abelaer/status/1882008892915482662) ]
+	<details>
+			<summary>tl;dr</summary> The 'partial causality decomposition' is constructed: true (interventional) causality is quantified by do-operators, and we decompose these into contributions from 'antichains'. This decomposes the total causal power into synergistic causality (the effects that can only be achieved by simultaneous interventions), redundant causality (effects that can be achieved by one of multiple interventions) or unique causality (effects that require a specific intervention). This method is well-known in information theory, but had not been applied to causal effects yet.</details>
+	<br>
+
+
 - **High order expression dependencies finely resolve cryptic states and subtypes in single cell data**
 
 	Abel Jansma, Yuelin Yao, Jareth Wolfe, Luigi Del Debbio, Sjoerd V Beentjes, Chris P Ponting, and Ava Khamseh, *Molecular Systems Biology 2025* 
