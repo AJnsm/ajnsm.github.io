@@ -6,7 +6,7 @@ permalink: /contact/
 
 
 <section class="main-col33">
-	<img src="/assets/abel_herbst_circle.png" width="500">
+	<img src="/assets/profile_pics/abel_herbst_circle.png" width="500">
 </section>
 
 

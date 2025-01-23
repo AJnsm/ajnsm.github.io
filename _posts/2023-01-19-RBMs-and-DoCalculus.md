@@ -31,7 +31,7 @@ First note that the RBM has to be represented by a DAG. To do this, consider the
 
 <br>
 
-![](/assets/do-calc/unrolled.png)
+![](/assets/blogPics/unrolled.png)
 
 <br>
 
@@ -57,7 +57,7 @@ where $G_{\overline{X}\underline{Z}}$ is the graph $G$ with all the arrows into 
 
 <br>
 
-![](/assets/do-calc/interventionGraphs.png)
+![](/assets/blogPics/interventionGraphs.png)
 
 <br>
 

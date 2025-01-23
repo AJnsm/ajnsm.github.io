@@ -26,7 +26,7 @@ A lot of this comes together in [this paper](https://arxiv.org/abs/2404.14423), 
 
 ### Information theory and Biology
 Information theory is a natural bridge between the physical and living systems. I am specifically interested in some extensions of Shannon's theory, such as [information decomposition](https://arxiv.org/abs/2410.06224), [higher-order information theory](https://arxiv.org/abs/2205.04440), and [quantum information](https://arxiv.org/abs/2404.06454). I've applied this to brains, genes, magnets, worms, qubits, Bach's chorales, and more...
-<img src="/assets/mobius_DNA.png" alt="A Möbius strip of DNA" width="400"/>
+<img src="/assets/research_info/mobius_DNA.png" alt="A Möbius strip of DNA" width="400"/>
 
 <br><br>
 

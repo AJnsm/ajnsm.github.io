@@ -77,22 +77,22 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <br>
 <h2>Talks and Conferences</h2>
 <ul>
-	<li><i>A Compositional Approach to Higher-order Structure in Complex Systems</i> - Centre for Complexity Science, Imperial College London, April 2024. <a href="/assets/talk_imperial.pdf" target="_blank"> Slides </a> </li>
+	<li><i>A Compositional Approach to Higher-order Structure in Complex Systems</i> - Centre for Complexity Science, Imperial College London, April 2024. <a href="/assets/presentations/talk_imperial.pdf" target="_blank"> Slides </a> </li>
 	<li><i>Plant Communication: Fact vs. Lore</i> - Multispecies Research Unit, Trust Berlin, March 2024. </li>
 	<li><i>A unified approach to higher-order structure in complex systems </i>  - University of Leipzig, Feb 2024. </li>
 	<li><i>From Genetic Hypergraphs to 
       Persistent Quantum Entanglement</i> - Max Planck Institute for Mathematics in the Sciences, seminar, Oct 2023. </li>
-	<li><i>A Compositional Game to Fairly Divide Homogeneous Cake</i>  - Applied Category Theory 2023, Aug 2023. <a href="/assets/poster_draft.pdf" target="_blank"> Poster </a></li>
-	<li><i>The information theory of higher-order interactions</i> - Dutch Institute for Emergent Phenomena, Institute for Advanced Study, June 2023. <a href="/assets/diep_pres.pdf" target="_blank"> Slides </a></li>
-	<li><i>Higher-Order Interactions and Their Duals Reveal Synergy and Logical Dependence beyond Shannon-Information</i> - DEMICS23, Max Planck Institute for the Physics of Complex Systems, June 2023. <a href="/assets/demics23_pres.pdf" target="_blank"> Slides </a></li>
+	<li><i>A Compositional Game to Fairly Divide Homogeneous Cake</i>  - Applied Category Theory 2023, Aug 2023. <a href="/assets/presentations/poster_draft.pdf" target="_blank"> Poster </a></li>
+	<li><i>The information theory of higher-order interactions</i> - Dutch Institute for Emergent Phenomena, Institute for Advanced Study, June 2023. <a href="/assets/presentations/diep_pres.pdf" target="_blank"> Slides </a></li>
+	<li><i>Higher-Order Interactions and Their Duals Reveal Synergy and Logical Dependence beyond Shannon-Information</i> - DEMICS23, Max Planck Institute for the Physics of Complex Systems, June 2023. <a href="/assets/presentations/demics23_pres.pdf" target="_blank"> Slides </a></li>
 	<li><i>Cybergenetic networks in the mouse brain: higher-order gene regulation and Boolean logic</i> - IGC Biomedical Genomics section meeting, Dec 2021. </li>
 	<li><i>Cybergenetic in-and-outeractions: Searching for strange loops in the mouse brain</i> - De Las Cuevas Group, University of Innsbruck, Sep 2021. </li>
 	<li><i>Genetic Interactions and Information Lattices</i> - Mathematical Quantum Physics group, University of Innsbruck, Juli 2021. </li>
-	<li><i>Model-free estimation of higher-order interactions</i> - CSHL Biology of Genomes conference, May 2021. <a href="/assets/CSHL_BoG_poster.pdf" target="_blank"> Poster </a></li>
-	<li><i>Complex Gene Regulation: Higher-order interactions in single-cell expression data</i> - European Mathematical Genetics Meeting, April 2021. <a href="/assets/EMGM21_talk_handout.pdf" target="_blank"> Slides </a> | <a href="/assets/EMGM21_talk.m4v" target="_blank"> Video </a></li> 
-	<li><i>Higher-order interactions in single-cell expression data</i> - IGC Biomedical Genomics section meeting, March 2021. <a href="/assets/BG_section_talk_16_03_21_handout.pdf" target="_blank"> Slides </a></li>
-	<li><i>Complex gene regulation: higher-order interactions in single-cell expression data</i> - CSHL Network Biology conference, March 2021. <a href="/assets/Higher_order_interactions_CSHL.pdf" target="_blank"> Poster </a></li>
-	<li><i>A maximally noncommittal physicist looks at genetic interactions</i> - Biomedical Genomics section meeting, May 2020. <a href="/assets/BG_pres_1.pdf" target="_blank"> Slides </a></li>
+	<li><i>Model-free estimation of higher-order interactions</i> - CSHL Biology of Genomes conference, May 2021. <a href="/assets/presentations/CSHL_BoG_poster.pdf" target="_blank"> Poster </a></li>
+	<li><i>Complex Gene Regulation: Higher-order interactions in single-cell expression data</i> - European Mathematical Genetics Meeting, April 2021. <a href="/assets/presentations/EMGM21_talk_handout.pdf" target="_blank"> Slides </a> | <a href="/assets/presentations/EMGM21_talk.m4v" target="_blank"> Video </a></li> 
+	<li><i>Higher-order interactions in single-cell expression data</i> - IGC Biomedical Genomics section meeting, March 2021. <a href="/assets/presentations/BG_section_talk_16_03_21_handout.pdf" target="_blank"> Slides </a></li>
+	<li><i>Complex gene regulation: higher-order interactions in single-cell expression data</i> - CSHL Network Biology conference, March 2021. <a href="/assets/presentations/Higher_order_interactions_CSHL.pdf" target="_blank"> Poster </a></li>
+	<li><i>A maximally noncommittal physicist looks at genetic interactions</i> - Biomedical Genomics section meeting, May 2020. <a href="/assets/presentations/BG_pres_1.pdf" target="_blank"> Slides </a></li>
 	<li><i>Computational biology journal club</i> - Helped organise and present, IGC May 2019 - Sep 2020.</li>
 	<li><i>Introduction to the do-calculus</i> - Helped organise and present at the Causality book club, IGC April 2019.</li>
 	<li><i>Ethics in biomedicine</i> - Workshop for Ponting-Lab, October 2019.</li>

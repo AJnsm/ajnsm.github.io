@@ -5,7 +5,7 @@ layout: home
 <div class="wrapper  bottom-3">
 <section class="main-col20_l">
 		<div style="padding-right: 20px">
-			<img src="/assets/abel_herbst_circle.png" width="500">
+			<img src="/assets/profile_pics/abel_herbst_circle.png" width="500">
 		</div>
 	</section>
 	<section  class="main-col60">
@@ -23,7 +23,7 @@ layout: home
 		</p>	
 	</section>
 	<section class="main-col20_r">
-		<img src="/assets/haeckel_01.png" width="500">
+		<img src="/assets/profile_pics/haeckel_01.png" width="500">
 	</section>
 </div>
 
