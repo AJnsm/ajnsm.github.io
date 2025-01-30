@@ -26,14 +26,24 @@ Have a look at these three rings:
 <br>
 
 
-Why are they connected? If you only consider two of the rings and ignore the third, then any pair can be smoothly separated. Still, the triplet is connected and cannot be taken apart. Yet any description purely in terms of the individual elements and their pairwise relationships would miss the fact that the three rings are connected. I find this kind of magical. There seems to be a kind of 'top-down' causation: the behaviour of individual rings is restricted by the group as a whole, not by any individual. 
+Why are they connected? If you only consider two of the rings and ignore the third, then any pair can be smoothly separated. The triplet is connected and cannot be taken apart, but any description purely in terms of pairwise relationships would miss the fact that the three rings are connected.
 
+<br> 
 
+While the three rings above---known as the *Borromean rings*---are especially simple and symmetric, similar links can be created for *any* number of rings. Here are links of four and six rings, for example, that fall apart if a single ring is removed:
+<div style="text-align: center;">
+    <img src="/assets/blogPics/brunnian_4.png" width=200>
+    <img src="/assets/blogPics/brunnian_6.png" width=200>
+</div>
+
+<br>
+
+I find this kind of magical. There seems to be a kind of 'top-down' causation: the behaviour of individual rings is restricted by the group as a whole, not by any individual. 
 <br>
 <br>
 
 ## Making sense of higher-order structure
-The rings above are a simple example of a more general phenomenon known as 'higher-order structure' or 'emergence'. These two terms are often used in an imprecise way. Imprecise use of 'emergence' does not bother me so much, because it seems to refer to something that is not very precise anyway (similar to 'complexity'). But I believe that 'higher-order structure' can be made much more precise---it certainly sounds pretty mathematical. In fact, I recently wrote a paper about an idea that makes this precise, and that seems to explain many uses of the word 'higher-order'. In particular, it answers the questions: *higher that what?* and *which order?*. The paper is called **A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius** and is publicly available [here](https://arxiv.org/pdf/2404.14423). In this blog post[^0], I hope to give a more accessible and less technical overview of the main ideas in the paper.
+The rings above are a simple example of a more general phenomenon known as 'higher-order structure' or 'emergence'. These two terms are often used in an imprecise way. Imprecise use of 'emergence' does not bother me so much, because it seems to refer to something that is not very precise anyway (similar to 'complexity'). But I believe that 'higher-order structure' can be made much more precise---it certainly sounds pretty mathematical. In fact, I recently wrote a paper about an idea that makes this precise, and that seems to explain many uses of the word 'higher-order'. In particular, it answers the questions: *higher than what?* and *which order?* The paper is called **A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius** and is publicly available [here](https://arxiv.org/pdf/2404.14423). In this blog post[^0], I hope to give a more accessible and less technical overview of the main ideas in the paper.
 
 
 <br>
@@ -41,7 +51,7 @@ The rings above are a simple example of a more general phenomenon known as 'high
 
 
 ## Mereology
-Mereology[^1] is the study of 'parts'---specifically the relationship between parts and wholes. My central thesis is that incorporating mereology into scientific and mathematical thinking is a good idea. While a lot has been written about mereology---mostly by philosophers and logicians---it is not widely used as a practical set of ideas in the sciences. I'm sure the aforementioned philosophers and logicians would find my approach simplistic, naive, or superficial, but I have found it to be very practical. 
+Mereology[^1] is the study of 'parts'---specifically the relationship between parts and wholes. My central thesis is that incorporating mereology into scientific and mathematical thinking is a good idea. While a lot has been written about mereology---mostly by philosophers and logicians---it is not widely used as a practical set of ideas in the sciences. I suspect the aforementioned philosophers and logicians would find my approach simplistic, naive, or superficial, but I have found it to be very practical. 
 
 <br>
 
@@ -64,7 +74,7 @@ The parts can be further divided into smaller parts, and so on. It is natural to
 
 <br>
 
-These rules are well-known to mathematicians, who call them *transitivity*, *reflexivity*, and *asymmetry*. Together, they define what is called a *partial order*. It gives a way to order a collection of things---in this case, wholes, parts, and parts of parts (and parts of parts of parts, etc.). When two parts can be ordered and part $a$ is smaller than (or equal to) part $b$, we write $a \leq b$. We say *partial* order, because not all parts can be put in order! A possible mereology on a bicycle is, for example, the following, where an arrow is drawn from a part $a$ to $b$ if $b$ is a part of $a$:
+These rules are well-known to mathematicians, who call them *transitivity*, *reflexivity*, and *antisymmetry*. Together, they define what is called a *partial order*. It gives a way to order a collection of things---in this case, wholes, parts, and parts of parts (and parts of parts of parts, etc.). When a part $a$ is smaller than (or equal to) part $b$, we write $a \leq b$. We say *partial* order, because not all parts can be put in order! A possible mereology on a bicycle is, for example, the following, where an arrow is drawn from a part $a$ to $b$ if $b$ is a part of $a$:
 
 
 <br>
@@ -75,7 +85,7 @@ These rules are well-known to mathematicians, who call them *transitivity*, *ref
 
 <br>
 
-Clearly, all the components drawn in black are 'parts' of the full bicycle, and the ordering reflects that both the tires and the spokes are part of the wheels. However, the tires are not part of the frame, and *vice-versa*, so there is no arrow between the two---they are 'incomparable'. 
+Clearly, all the components drawn in black are 'parts' of the full bicycle, and the ordering reflects that the tires and the spokes are both parts of the wheels. However, the tires are not part of the frame, and *vice-versa*, so there is no arrow between the two---they are 'incomparable'. 
 
 <br>
 
@@ -85,7 +95,7 @@ Now let's put on a more scientific hat. If we want to describe the mereology of 
 <br>
 
 ## Decomposing Complex Systems
-Fundamental to any description of Nature is the choice of parts. I imagine this like the cast of a theatre play: who are the characters that come together to tell the story. If you want to describe how an object behaves, you should decide whether you want to describe it in terms of the atoms, molecules, layers, structural elements, or something else. Once you make this choice, you can start writing down equations that describe how these parts interact. Say you want to predict some property of a system, let's call it $Q$ for quantity. This could be the temperature of a material, or the height of a person---anything that can be described by a number is allowed here. If $Q$ is some macroscopic quantity that you could measure, then makes sense to say: $Q(S)$ is the sum of microscopic contributions from all the parts that make up the system $S$. Since I'm imagining $Q$ to be an observable macroscopic quantity, built from microscopic contributins of the parts, I write them as $Q$ and $q$ respectively. Each part can contribute something else, so I write $q(s)$ for the contribution of part $s$. Saying that the quantity $Q$ is the sum of the contributions of the parts can then be written mathematically as:
+Fundamental to any description of Nature is the choice of parts. I imagine this like the cast of a theatre play: who are the characters that come together to tell the story. If you want to describe how an object behaves, you should decide whether you want to describe it in terms of the atoms, molecules, layers, structural elements, or something else. Once you make this choice, you can start writing down equations that describe how these parts interact. Say you want to predict some property of a system, let's call it $Q$ for quantity. This could be the temperature of a material, or the height of a person---anything that can be described by a number is allowed here. If $Q$ is some macroscopic quantity that you could measure, then it makes sense to say: $Q(S)$ is the sum of microscopic contributions from all the parts that make up the system $S$. Since I'm imagining $Q$ to be an observable macroscopic quantity, built from microscopic contributions of the parts, I write them as a big $Q$ and little $q$ respectively. Each part can contribute something else, so I write $q(s)$ for the contribution of part $s$. Saying that the quantity $Q$ is the sum of the contributions of the parts can then be written mathematically as:
 
 
 $$
@@ -108,9 +118,19 @@ $$
 Q(S) = \sum_{p \in \mathcal{P}(S)} q(p)
 $$
 
-We are now at the point where we can connect this back to mereology. Note that $\mathcal{P}(S)$ has an "order" to it. Let's say $S = (g_1, g_2, g_3)$, then $\mathcal{P}(S) = (\emptyset, (g_1), (g_2), (g_3), (g_1, g_2), (g_1, g_3), (g_2, g_3), (g_1, g_2, g_3))$. The thing written as $\emptyset$ represents the 'empty' set, which technically is also a part of $S$---namely the 'empty part'. Note that some elements of $\mathcal{P}(S)$ can be made from others. For example, $(g_1, g_2)$ can be made from $(g_1)$ by adding $(g_2)$. In this sense, $(g_1)$ is a 'part' of $(g_1, g_2)$, and $(g_1, g_2)$ is thus "bigger" than $(g_1)$. This is usually written as $(g_1)\subseteq (g_1, g_2)$. It should not be too hard to convince yourself that $\mathcal{P}(S)$, ordered in this way by $\subseteq$, is a mereology on $S$!
+We are now at the point where we can connect this back to mereology. Note that $\mathcal{P}(S)$ has an "order" to it. Let's say $S = (g_1, g_2, g_3)$, then $\mathcal{P}(S) = (\emptyset, (g_1), (g_2), (g_3), (g_1, g_2), (g_1, g_3), (g_2, g_3), (g_1, g_2, g_3))$. The thing written as $\emptyset$ represents the 'empty' set $(~)$, which technically is also a part of $S$---namely the 'empty part'. Note that some elements of $\mathcal{P}(S)$ can be made from others. For example, $(g_1, g_2)$ can be made from $(g_1)$ by adding $(g_2)$. In this sense, $(g_1)$ is a 'part' of $(g_1, g_2)$, and $(g_1, g_2)$ is thus "bigger" than $(g_1)$. This is usually written as $(g_1)\subseteq (g_1, g_2)$. It should not be too hard to convince yourself that $\mathcal{P}(S)$, ordered in this way by $\subseteq$, is a mereology on $S$!
 
 <br>
+
+Here's a picture of the power set mereology on systems with 2, 3, or 4 variables (which I've labelled simply as $0$, $1$, $2$, and $3$):
+
+<div style="text-align: center;">
+    <img src="/assets/blogPics/hasse_BAs.png" width=700>
+</div>
+
+<br>
+
+Each has the full system at the top (as any mereology should), the empty set at the bottom, and in between all the singletons, pairs, triplets, and so on. All three also clearly have 'levels' or 'orders' corresponding to horizontal slices. 
 
 This means that we can now 'decompose' the quantity $Q(S)$ over a mereology on $S$ as follows
 
@@ -142,12 +162,12 @@ $$
 Q(S) = \sum_{p \leq S} q(p) \quad \iff \quad q(S) = \sum_{p \leq S} \mu(p, S)Q(p)
 $$
 
-This says that whenever you have a sum over a mereology, you can actually invert this sum ('solve the system of equations'). This gives you an expression for all the microscopic contributions $q(p)$ in terms of the observable properties of the parts $Q(r)$. $Q$ is a sum of $q$'s, but the $q$'s are themselves a sum of $Q$'s, weighed by a weird number called $\mu(p, S)$. This number is called the *Möbius function* of the mereology. 
+This says that whenever you have a sum over a mereology, you can actually invert this sum ('solve the system of equations'). This gives you an expression for all the microscopic contributions $q(p)$, that are usually not directly observable, in terms of the observable properties of the parts $Q(r)$. $Q$ is a sum of $q$'s, but the $q$'s are themselves a sum of $Q$'s, weighed by a weird number called $\mu(p, S)$. This number is called the *Möbius function* of the mereology. 
 
 
 <br>
 
-The precise definition of $\mu$ is not so important. The only important thing is that it is fully specified by the 'shape' of the mereology. Only the relationships between the parts matter---not what the parts actually *are*. For example, the power set mereology $(\mathcal{P}(S), \subseteq)$ that we saw before always has the same shape, no matter what kind of system $S$ is. This means that the Möbius function is always the same for the power set mereology. It is given by 
+The precise definition of $\mu$ is not so important[^mf]. The only important thing is that it allows you to invert sums on a mereology, and that it is fully specified by the 'shape' of the mereology. Only the relationships between the parts matter---not what the parts actually *are*. For example, the power set mereology $(\mathcal{P}(S), \subseteq)$ that we saw before always has the same shape, no matter what kind of system $S$ is. This means that the Möbius function is always the same for the power set mereology. It is given by 
 
 $$
 \mu(p, S) = (-1)^{|S| - |p|}
@@ -216,13 +236,20 @@ $$
 I(X, Y) = H(X, Y) - H(X) - H(Y)
 $$
 
-This is a quantity known as the *mutual information* between $X$ and $Y$, and represents one of the most fundamental concepts in information therapy. While there are other ways to derive it, this shows that it is the *unique* way to decompose the entropy over subsets of variables. 
+This is a quantity known as the *mutual information* between $X$ and $Y$, and represents one of the most fundamental concepts in information theory. While there are other ways to derive it, this shows that it is the *unique* way to decompose the entropy over subsets of variables. 
 
 <br>
 <br>
 
 ## Beyond power sets
-Both examples above use the power set mereology, which is especially simple. In the paper, I find that Möbius inversions on different mereologies reproduce different quantities that are all well-known in certain fields of science. Table 1 from the paper gives an overview of some of these:
+Both examples above use the power set mereology, which is especially simple[^4]. In the paper, I find that Möbius inversions on different mereologies reproduce different quantities that are all well-known in certain fields of science. One alternative but common mereology is the 'partition' mereology, where a set is not divided into subsets, but into 'partitions'---different ways to cut up a system. Here's what that looks like for two, three, and four variables:
+<div style="text-align: center;">
+    <img src="/assets/blogPics/hasse_partition.png" width=700>
+</div>
+
+<br>
+
+Table 1 from the paper gives an overview of how different mereologies are associated to different quantities:
 
 <br> 
 
@@ -232,17 +259,24 @@ Both examples above use the power set mereology, which is especially simple. In 
 
 <br> 
 
-To summarise: Most of the quantities above were the result of people thinking very hard about what the right definition of the microscopic 'interaction' terms are. However, instead of thinking hard about equations, you can instead invest this mental energy into thinking about appropriate mereologies. Once you have fixed the mereology, there is a *unique* microscopic description that is compatible with it. Not only that, the mereology shows you exactly what is meant by 'higher-order', namely, some terms are higher with respect to the partial ordering. 
+To summarise: Most of the quantities above were the result of people thinking very hard about what the right definition of the microscopic 'interaction' terms are. However, instead of thinking hard about equations, you can instead invest this mental energy into thinking about appropriate mereologies. Once you have fixed the mereology, there is a *unique* microscopic description that is compatible with it. Not only that, the mereology shows you exactly what is meant by 'higher-order', namely, some terms are higher with respect to the partial ordering. This resonates strongly with Plato's call to 'carve Nature at its joints'---a good description of Nature depends on a good choice of parts. If you choose a natural mereology, then the higher-order interactions that derive from it inherit the justification. 
 
 <br> 
 
 
 ## Real-world applications
-In the paper I use this approach[^4] to derive new notions of 'higher-order' interactions that can be used in machine learning (I derive a novel decomposition of the so-called *KL-divergence*). Another exciting application is 'coarse-graining'. Physicists *love* studying what happens when you 'coarse-grain' a system---how does the physics change if you squint or look from far away? If you want to learn more about this, you should look up 'renormalisation'. In essence, a coarse-graining is simply a change in mereology---a coarser description is one with fewer or larger parts. Describing coarse-grainings at the level of mereologies gives an entirely new way to think about this process. In one of the final sections of the paper I show that coarse-grainings correspond to special kinds of transformations of mereologies called *Galois connections*, and use this to derive well-known coarse grained quantities (the 'renormalised' Ising couplings).
+In the paper I use this approach[^5] to derive new notions of 'higher-order' interactions that can be used in machine learning (I derive a novel decomposition of the so-called *KL-divergence*). Another exciting application is 'coarse-graining'. Physicists *love* studying what happens when you 'coarse-grain' a system---how does the physics change if you squint or look from far away? In essence, a coarse-graining is simply a change in mereology---a coarser description is one with fewer or larger parts. Describing coarse-grainings at the level of mereologies gives an entirely new way to think about this process. In one of the final sections of the paper I show that coarse-grainings correspond to special kinds of transformations of mereologies called *Galois connections*, and use this to derive well-known coarse-grained quantities (the 'renormalised' Ising couplings).
 
 <br>
 
-I'm now exploring what else can be done with this approach, and recently found a new way to decompose causal effects, as outlined [here](https://arxiv.org/pdf/2501.11447). To apply the framework, you have to know the Möbius function $\mu$ of the mereology you are interested in. For one famous mereology---the so-called redundancy, or antichain mereology---the Möbius function was not known. However, in a recent collaboration with Pedro Mediano at Imperial College London, and Fernando Rosas at Sussex, we were able to calculate it and immediately calculate new kinds of higher-order interactions (see the paper [here](https://arxiv.org/pdf/2410.06224)). 
+To apply the framework, you have to know the Möbius function $\mu$ of the mereology you are interested in. For one famous mereology---the so-called redundancy mereology---the Möbius function was not known. It is a particularly complex mereology and includes *many*[^dedekind] parts:
+<div style="text-align: center;">
+    <img src="/assets/blogPics/hasse_antichains.png" width=700>
+</div>
+
+<br>
+
+However, in a recent collaboration with Pedro Mediano at Imperial College London, and Fernando Rosas at Sussex, we were able to calculate the Möbius function for this mereology, and therefore calculate new kinds of higher-order interactions (see the paper [here](https://arxiv.org/pdf/2410.06224)). I'm now exploring what else can be done with this approach, and recently found a new way to decompose causal effects, as outlined [here](https://arxiv.org/pdf/2501.11447). 
 
 <br> 
 
@@ -253,8 +287,11 @@ I'm now exploring what else can be done with this approach, and recently found a
 <br> 
 <br>
 
-[^0]: <span style="color:grey">Thanks to Twitter/X user [@prathyvsh](https://x.com/prathyvsh) for urging me to write this. They make [really great visualisations of algebraic structures](https://x.com/prathyvsh/status/1790097597107241210)</span>
+[^0]: <span style="color:grey">Thanks to Twitter/X user [@prathyvsh](https://x.com/prathyvsh) for urging me to write this, and comments on an early draft. They make [really great visualisations of algebraic structures](https://x.com/prathyvsh/status/1790097597107241210)</span>
 [^1]: <span style="color:grey">Mereology is the *λόγος* (logos: explanation/consideration) of a *μέρος* (meros: part). The *meros* root more famously appears in words like *polymer* (literally: manyparts).</span>
 [^2]:  <span style="color:grey">Mathematicians might notice how this is somewhat similar to the definition of a *topology*. The two are indeed related, but not the same. A topology on a finite set is necessarily a mereology, but not all mereologies are topologies, and topologies do not have to be finite. </span>
 [^3]:  <span style="color:grey">It's interesting to ask: *Why* are beyond-pairwise interactions not common? I think it's at least part caused by a lack of imagination. We can picture things interacting as a graph, where points represent parts, and lines represent interactions between parts. But lines always connect two points, not three or more, so we cannot really picture what higher-order interactions look like. This is a limitation of our imagination, not of Nature. However, pairwise descriptions have been very successful, and some people have argued that this is the way Nature works. Observing higher-order interactions from data is also harder than pairwise interactions, so perhaps it is simply a reflection of the fact that data sets have historically been small. This would also explain why higher-order interactions are becoming more *en vogue* now that data sets are getting bigger. </span>
-[^4]:  <span style="color:grey">I'm still looking for a good name for this approach/framework. If you have any suggestions---please let me know!</span>
+[^4]:  <span style="color:grey">The Möbius inversion formula over the power set mereology is more famously known as the *inclusion-exclusion principle*.
+[^5]:  <span style="color:grey">I'm still looking for a good name for this approach/framework. If you have any suggestions---please let me know!</span>
+[^mf]:  <span style="color:grey">The Möbius function is usually recursively defined over a partial order, but there is a very nice expression due to Phillip Hall: Given an interval $[x, y]$ on the partial order $P$, let $c_i$ be the number of chains in $P$ from $x$ to $y$ of length $i$. Then the Möbius function on $P$ is given by $\mu(x, y) = -c_1 + c_2 - c_3 + \ldots$. </span>
+[^dedekind]:  <span style="color:grey">In fact, the number of parts in this mereology for 9 variables was calculated for the first time in 2023, and for more than 9 variables is still unknown.</span>
