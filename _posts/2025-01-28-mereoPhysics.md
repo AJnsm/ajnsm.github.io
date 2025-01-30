@@ -32,8 +32,8 @@ Why are they connected? If you only consider two of the rings and ignore the thi
 
 While the three rings above---known as the *Borromean rings*---are especially simple and symmetric, similar links can be created for *any* number of rings. Here are links of four and six rings, for example, that fall apart if a single ring is removed:
 <div style="text-align: center;">
-    <img src="/assets/blogPics/brunnian_4.png" width=200>
-    <img src="/assets/blogPics/brunnian_6.png" width=200>
+    <img src="/assets/blogPics/Brunnian_4.png" width=200>
+    <img src="/assets/blogPics/Brunnian_6.png" width=200>
 </div>
 
 <br>
