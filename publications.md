@@ -115,14 +115,15 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <br>
 <h2>Code</h2>
 <a href="https://github.com/AJnsm/Stator" target="_blank"> Stator: cell state inference from gene expression data </a> Github, 2023 <br>
-<a href="https://github.com/AJnsm/ParallelTemperingForRBMs" target="_blank"> Training RBMs with parallel tempering </a> Github, 2019 <br>
-<a href="https://www.openprocessing.org/sketch/1211361" target="_blank"> Leaf venation simulation </a> (ran by ~700 users) Openprocessing.org, 2014. <br>
-<a href="https://www.openprocessing.org/sketch/128903" target="_blank"> Firefly synchronisation</a> (ran by ~5k users)  Openprocessing.org, 2014. <br>
-<a href="https://www.openprocessing.org/sketch/126516" target="_blank"> Flocking simulations with predators</a> (ran by ~16k users, forked ~25 times)  Openprocessing.org, 2013.
+<a href="https://github.com/AJnsm/ParallelTemperingForRBMs" target="_blank"> Training RBMs with parallel tempering </a> Github, 2020 <br>
+<a href="https://www.openprocessing.org/sketch/1211361" target="_blank"> Leaf venation simulation </a> (ran by >1k users) Openprocessing.org, 2014. <br>
+<a href="https://www.openprocessing.org/sketch/128903" target="_blank"> Firefly synchronisation</a> (ran by >6k users)  Openprocessing.org, 2014. <br>
+<a href="https://www.openprocessing.org/sketch/126516" target="_blank"> Flocking simulations with predators</a> (ran by ~20k users, forked 35 times)  Openprocessing.org, 2013.
 
 
 <br>
 <h2>Outreach</h2>
+<a href="/assets/presentations/quantumness_gramounce.pdf" target="_blank"> Quantumness---What it is and isn't </a> Lecture at the Gramounce M.A. 2025<br>
 <a href="https://www.quantumuniverse.nl/over-vogels-en-vuurvliegjes" target="_blank"> Over vogels en vuurvliegjes </a> Quantumuniverse.nl 2019.<br>
 <a href="https://www.quantumuniverse.nl/solitonen-het-zwembad" target="_blank"> Solitonen in het zwembad </a> Quantumuniverse.nl 2019.<br>
 <a href="https://www.mediamatic.net/en/page/284175/distillation-101" target="_blank"> Distillation 101 </a> Mediamatic.net 2016.
