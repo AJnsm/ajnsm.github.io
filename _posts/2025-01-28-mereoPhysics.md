@@ -19,7 +19,7 @@ Have a look at these three rings:
 <br>
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/BorromeanRings.png" width=200>
+    <img src="/assets/blogPics/borromean_rings.pdf" width=200>
 </div>
 
 <br>
@@ -31,9 +31,12 @@ Why are they connected? If you only consider two of the rings and ignore the thi
 <br> 
 
 While the three rings above---known as the *Borromean rings*---are especially simple and symmetric, similar links can be created for *any* number of rings. Here are links of four and six rings, for example, that fall apart if a single ring is removed:
+
+
+<br>
+
 <div style="text-align: center;">
-    <img src="/assets/blogPics/Brunnian_4.png" width=200>
-    <img src="/assets/blogPics/Brunnian_6.png" width=200>
+    <img src="/assets/blogPics/brunnian_links.pdf" width=500>
 </div>
 
 <br>
@@ -187,7 +190,7 @@ Where $\mid S\mid - \mid p\mid$ refers to the difference in the number of elemen
 
 $$
 H(g_1, g_2) = \sum_{p \subseteq (g_1, g_2)} h(p)
-= {\color{grey}{h(\emptyset})} + {\color{red}{h(g_1)}} + {\color{green}{h(g_2)}} + {\color{purple}{h(g_1, g_2)}}
+= {\color{grey}{h(\emptyset})} + {\color{YellowGreen}{h(g_1)}} + {\color{skyblue}{h(g_2)}} + {\color{Tan}{h(g_1, g_2)}}
 $$
 
 This says: the height of the person with both genes is given by some contribution $h(\emptyset)$ that forms the 'baseline' height, plus the contributions of each gene individually, plus the interaction of the pair of genes. Matching the colour scheme above, we can draw this as:
@@ -200,14 +203,14 @@ This says: the height of the person with both genes is given by some contributio
 To infer the contribution of an individual gene, we apply the Möbius inversion formula:
 
 $$
-{\color{red}{h(g_1)}} =  (-1)^{|g_1| - |g_1|}H(g_1) + (-1)^{|\emptyset| - |g_1|}H(\emptyset)\\
+h(g_1) =  (-1)^{|g_1| - |g_1|}H(g_1) + (-1)^{|\emptyset| - |g_1|}H(\emptyset)\\
 = H(g_1)- H(\emptyset) 
 $$
 
 That is, the effect $h(g_1)$ of an individual gene is the difference between a person with that gene and a person without it. This makes sense! In fact, it makes so much sense that it is not very interesting. More interesting is the interaction term. A similar Möbius inversion yields:
 
 $$
-{\color{purple}{h(g_1, g_2)}} = H(g_1, g_2) - H(g_1) - H(g_2) + H(\emptyset)
+h(g_1, g_2) = H(g_1, g_2) - H(g_1) - H(g_2) + H(\emptyset)
 $$
 
 which can be drawn as:
