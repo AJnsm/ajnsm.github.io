@@ -19,7 +19,7 @@ Have a look at these three rings:
 <br>
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/borromean_rings.png" width=200>
+    <img src="/assets/blogPics/borromean_rings.svg" width=200>
 </div>
 
 <br>
@@ -36,7 +36,7 @@ While the three rings above---known as the *Borromean rings*---are especially si
 <br>
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/brunnian_links.png" width=500>
+    <img src="/assets/blogPics/brunnian_links.svg" width=500>
 </div>
 
 <br>
@@ -196,7 +196,7 @@ $$
 This says: the height of the person with both genes is given by some contribution $h(\emptyset)$ that forms the 'baseline' height, plus the contributions of each gene individually, plus the interaction of the pair of genes. Matching the colour scheme above, we can draw this as:
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/height_graph.png" width=500>
+    <img src="/assets/blogPics/height_graph.svg" width=500>
 </div>
 
 
@@ -218,7 +218,7 @@ which can be drawn as:
 <br> 
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/height_inversion.png" width=500>
+    <img src="/assets/blogPics/height_inversion.svg" width=500>
 </div>
 
 <br> 
