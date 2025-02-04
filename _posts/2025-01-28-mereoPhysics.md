@@ -83,7 +83,7 @@ These rules are well-known to mathematicians, who call them *transitivity*, *ref
 <br>
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/bicycle_mereology.pdf" width=500>
+    <img src="/assets/blogPics/hasse_bicycle.pdf" width=400>
 </div>
 
 <br>
@@ -295,6 +295,6 @@ However, in a recent collaboration with Pedro Mediano at Imperial College London
 [^2]:  <span style="color:grey">Mathematicians might notice how this is somewhat similar to the definition of a *topology*. The two are indeed related, but not the same. A topology on a finite set is necessarily a mereology, but not all mereologies are topologies, and topologies do not have to be finite. </span>
 [^3]:  <span style="color:grey">It's interesting to ask: *Why* are beyond-pairwise interactions not common? I think it's at least part caused by a lack of imagination. We can picture things interacting as a graph, where points represent parts, and lines represent interactions between parts. But lines always connect two points, not three or more, so we cannot really picture what higher-order interactions look like. This is a limitation of our imagination, not of Nature. However, pairwise descriptions have been very successful, and some people have argued that this is the way Nature works. Observing higher-order interactions from data is also harder than pairwise interactions, so perhaps it is simply a reflection of the fact that data sets have historically been small. This would also explain why higher-order interactions are becoming more *en vogue* now that data sets are getting bigger. </span>
 [^4]:  <span style="color:grey">The Möbius inversion formula over the power set mereology is more famously known as the *inclusion-exclusion principle*.
-[^5]:  <span style="color:grey">I'm still looking for a good name for this approach/framework. If you have any suggestions---please let me know!</span>
+[^5]:  <span style="color:grey">I'm still looking for a good name for this approach/framework. Möreology? If you have any suggestions---please let me know!</span>
 [^mf]:  <span style="color:grey">The Möbius function is usually recursively defined over a partial order, but there is a very nice expression due to Phillip Hall: Given an interval $[x, y]$ on the partial order $P$, let $c_i$ be the number of chains in $P$ from $x$ to $y$ of length $i$. Then the Möbius function on $P$ is given by $\mu(x, y) = -c_1 + c_2 - c_3 + \ldots$. </span>
 [^dedekind]:  <span style="color:grey">In fact, the number of parts in this mereology for 9 variables was calculated for the first time in 2023, and for more than 9 variables is still unknown.</span>
