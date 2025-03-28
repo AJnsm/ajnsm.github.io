@@ -19,6 +19,16 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 			<summary>tl;dr</summary> The 'partial causality decomposition' is constructed: true (interventional) causality is quantified by do-operators, and we decompose these into contributions from 'antichains'. This decomposes the total causal power into synergistic causality (the effects that can only be achieved by simultaneous interventions), redundant causality (effects that can be achieved by one of multiple interventions) or unique causality (effects that require a specific intervention). This method is well-known in information theory, but had not been applied to causal effects yet.</details>
 	<br>
 
+	
+- **A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius**
+
+	Abel Jansma, *Physical Review Research 2025*
+
+	[ [paper](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) ]
+	<details>
+			<summary>tl;dr</summary> We present a unified mathematical framework to describe how breaking down complex systems (like brains, molecules, or social networks) into parts determines what kinds of interactions we can discover between those parts. Using an algebraic method called Möbius inversion, this relates large-scale observations to microscopic and "higher-order" interactions.</details>
+	<br>
+	
 
 - **High order expression dependencies finely resolve cryptic states and subtypes in single cell data**
 
@@ -37,16 +47,7 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 	<details>
 			<summary>tl;dr</summary> We present a way to calculate how information is shared between multiple variables in complex systems, distinguishing between redundant, synergistic, and unique information. By leveraging algebraic properties of information decomposition, the method makes previously intractable analyses possible. We demonstrate this on brain activity data, and baroque music compositions.</details>
 	<br>
-	
-- **A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius**
 
-	Abel Jansma, *Physical Review Research 2025*
-
-	[ [paper](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) ]
-	<details>
-			<summary>tl;dr</summary> We present a unified mathematical framework to describe how breaking down complex systems (like brains, molecules, or social networks) into parts determines what kinds of interactions we can discover between those parts. Using an algebraic method called Möbius inversion, this relates large-scale observations to microscopic and "higher-order" interactions.</details>
-	<br>
-	
 - **Superdense Coding and Stabiliser Codes with Ising-coupled Entanglement**
 
 	Abel Jansma, *2024*
