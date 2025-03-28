@@ -40,7 +40,7 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 	
 - **A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius**
 
-	Abel Jansma, *2024*
+	Abel Jansma, *Physical Review Research 2025*
 
 	[ [paper](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) ]
 	<details>
