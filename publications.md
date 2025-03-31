@@ -24,7 +24,7 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 
 	Abel Jansma, *Physical Review Research 2025*
 
-	[ [paper](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) ]
+	[ [paper](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) \| [Video](https://www.youtube.com/watch?v=VOTBxNymowc) ]
 	<details>
 			<summary>tl;dr</summary> We present a unified mathematical framework to describe how breaking down complex systems (like brains, molecules, or social networks) into parts determines what kinds of interactions we can discover between those parts. Using an algebraic method called Möbius inversion, this relates large-scale observations to microscopic and "higher-order" interactions.</details>
 	<br>
@@ -78,6 +78,7 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <br>
 <h2>Talks and Conferences</h2>
 <ul>
+	<li><i>From Macro to Micro with Möbius </i> - Dutch Institute for Emergent Phenomena, Institute for Advanced Studies, Februari 2025. <a href="https://www.youtube.com/watch?v=VOTBxNymowc" target="_blank"> Recording </a> | <a href="/assets/presentations/mereophysics_handout.pdf" target="_blank"> Slides </a></li>
 	<li><i>A Compositional Approach to Higher-order Structure in Complex Systems</i> - Centre for Complexity Science, Imperial College London, April 2024. <a href="/assets/presentations/talk_imperial.pdf" target="_blank"> Slides </a> </li>
 	<li><i>Plant Communication: Fact vs. Lore</i> - Multispecies Research Unit, Trust Berlin, March 2024. </li>
 	<li><i>A unified approach to higher-order structure in complex systems </i>  - University of Leipzig, Feb 2024. </li>
