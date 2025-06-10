@@ -24,7 +24,7 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 
 	Abel Jansma, *Physical Review Research 2025*
 
-	[ [paper](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) \| [Video](https://www.youtube.com/watch?v=VOTBxNymowc) ]
+	[ [paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023016)\| [preprint](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) \| [Video](https://www.youtube.com/watch?v=VOTBxNymowc) ]
 	<details>
 			<summary>tl;dr</summary> We present a unified mathematical framework to describe how breaking down complex systems (like brains, molecules, or social networks) into parts determines what kinds of interactions we can discover between those parts. Using an algebraic method called Möbius inversion, this relates large-scale observations to microscopic and "higher-order" interactions.</details>
 	<br>
