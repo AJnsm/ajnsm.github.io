@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Encyclopedia of Mobius Inversions in the Sciences"
-date:   2025-06-10 10:00:00 +0200
+date:   2025-01-28 10:00:00 +0200
 author: Abel Jansma
 tags: physics biology cybernetics causality game-theory maths philosophy machine-learning information-theory
 ---

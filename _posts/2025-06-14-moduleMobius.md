@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Möbius inversion theorem for modules and vector spaces"
-date:   2025-06-14 10:00:00 +0200
+date:   2025-01-28 10:00:00 +0200
 author: Abel Jansma
 tags: maths
 ---
