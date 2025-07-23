@@ -10,9 +10,19 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <br>
 ## Articles
 
+	
+- **The Fast Möbius Transform: An algebraic approach to information decomposition**
+
+	Abel Jansma, Pedro Mediano, and Fernando Rosas, *Physical Review Research, 2025*
+
+	[[paper](https://journals.aps.org/prresearch/abstract/10.1103/32sq-z2jf) \| [preprint](https://arxiv.org/abs/2410.06224) \| [code](https://github.com/AJnsm/algebraicPID) \| [Twitter thread](https://x.com/Abelaer/status/1844659016993058981) ]
+	<details>
+			<summary>tl;dr</summary> We present a way to calculate how information is shared between multiple variables in complex systems, distinguishing between redundant, synergistic, and unique information. By leveraging algebraic properties of information decomposition, the method makes previously intractable analyses possible. We demonstrate this on brain activity data, and baroque music compositions.</details>
+	<br>
+
 - **Decomposing Interventional Causality into Synergistic, Redundant, and Unique Components**
 
-	Abel Jansma *2025* 
+	Abel Jansma, *2025* 
 	
 	[ [paper](https://arxiv.org/abs/2501.11447) \| [Twitter thread](https://x.com/Abelaer/status/1882008892915482662) ]
 	<details>
@@ -22,7 +32,7 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 	
 - **A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius**
 
-	Abel Jansma, *Physical Review Research 2025*
+	Abel Jansma, *Physical Review Research, 2025*
 
 	[ [paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023016)\| [preprint](https://arxiv.org/abs/2404.14423) \| [code](https://github.com/AJnsm/KLdecomposition) \| [Twitter thread](https://x.com/Abelaer/status/1783088636751151367) \| [Video](https://www.youtube.com/watch?v=VOTBxNymowc) ]
 	<details>
@@ -37,15 +47,6 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 	[ [paper](https://www.embopress.org/doi/full/10.1038/s44320-024-00074-1) \| [preprint](https://www.biorxiv.org/content/10.1101/2023.12.18.572232v1) \| [code](https://github.com/AJnsm/Stator) \| [Twitter thread](https://x.com/CGATist/status/1737030259218747655) ]
 	<details>
 			<summary>tl;dr</summary> We introduce Stator, a new computational method that reveals hidden cell states in single-cell data by analysing how genes work together, rather than just looking at where cells cluster. Unlike traditional methods, Stator can label a single cell with multiple states simultaneously-like being both a neuron and in a specific phase of cell division-giving us a more complete picture of what cells are doing. Stator even finds substructure within homogeneous populations!</details>
-	<br>
-	
-- **The Fast Möbius Transform: An algebraic approach to information decomposition**
-
-	Abel Jansma, Pedro Mediano, and Fernando Rosas, *2024* 
-
-	[ [paper](https://arxiv.org/abs/2410.06224) \| [code](https://github.com/AJnsm/algebraicPID) \| [Twitter thread](https://x.com/Abelaer/status/1844659016993058981) ]
-	<details>
-			<summary>tl;dr</summary> We present a way to calculate how information is shared between multiple variables in complex systems, distinguishing between redundant, synergistic, and unique information. By leveraging algebraic properties of information decomposition, the method makes previously intractable analyses possible. We demonstrate this on brain activity data, and baroque music compositions.</details>
 	<br>
 
 - **Superdense Coding and Stabiliser Codes with Ising-coupled Entanglement**
