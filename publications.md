@@ -79,6 +79,7 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <br>
 <h2>Talks and Conferences</h2>
 <ul>
+	<li><i>A Causal Calculus of Parts and Wholes</i> - Iliad Conference, Berkeley, Aug 2025. </li>
 	<li><i>From Macro to Micro with Möbius </i> - Dutch Institute for Emergent Phenomena, Institute for Advanced Studies, Februari 2025. <a href="https://www.youtube.com/watch?v=VOTBxNymowc" target="_blank"> Recording </a> | <a href="/assets/presentations/mereophysics_handout.pdf" target="_blank"> Slides </a></li>
 	<li><i>A Compositional Approach to Higher-order Structure in Complex Systems</i> - Centre for Complexity Science, Imperial College London, April 2024. <a href="/assets/presentations/talk_imperial.pdf" target="_blank"> Slides </a> </li>
 	<li><i>Plant Communication: Fact vs. Lore</i> - Multispecies Research Unit, Trust Berlin, March 2024. </li>
