@@ -23,9 +23,9 @@ In a [recent paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRev
 |  | Moments | Partitions | Cumulants |
 |  | Free moments | Non-crossing partitions | Free cumulants |
 |  | Path signature moments | Ordered partitions | Path signature cumulants |
-|  | Causal effects | antichains | Causal synergy/redundancy |
+|  | Causal effects | Antichains | Causal synergy/redundancy |
 | **Information Theory** | Entropy | Powerset | Mutual information |
-|  | Entropy | Singleton | Total correlation |
+|  | Entropy | Singletons | Total correlation |
 |  | Surprisal | Powerset | Pointwise mutual information |
 |  | Joint Surprisal | Powerset | Conditional interactions |
 |  | Mutual Information | Antichains | Synergy/redundancy atom |
@@ -37,8 +37,8 @@ In a [recent paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRev
 |  | Quantum corr. functions | Partitions | Scattering amplitudes |
 | **Chemistry** | Molecular property | Subgraphs | Fragment contributions |
 |  | Molecular property | Reaction poset | Cluster contributions |
-| **Game Theory** | Coalition value | Powerset | Coalition synergy |
-|  | Shapley value | Powerset | Normalised coalition synergy |
+| **Game Theory** | Coalition value | Powerset | Harsanyi dividends |
+|  | Shapley value | Supersets | Normalised coalition synergy |
 | **Artificial Intelligence** | Generative model probabilities | Powerset | Feature interaction |
 |  | Predictive model predictions | Powerset | Feature contribution |
 |  | Dempster-Shafer Belief | Lattices | Evidence weight |
