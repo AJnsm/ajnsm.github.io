@@ -11,7 +11,7 @@ layout: home
 	<section  class="main-col60">
 		<p> 
 		 	<h2> Hello World <br> </h2>
-			I am a scientist at the <a href="https://www.d-iep.org" target="_blank">Dutch Insitute for Emergent Phenomena</a>, working at the Institute of Physics (IoP), and of the Institute of Logic, Language, and Computation (ILLC) at the University of Amsterdam.<br>
+			I am a scientist at the <a href="https://www.d-iep.org" target="_blank">Dutch Institute for Emergent Phenomena</a>, working at the Institute of Physics (IoP), and of the Institute of Logic, Language, and Computation (ILLC) at the University of Amsterdam.<br>
 			<br>
 			I combine intuition from physics, knowledge from biology, and techniques from mathematics, to think about higher-order interactions and emergence in complex and living systems. Find my latest publications <a href="/publications">here</a>.
 			<br>
