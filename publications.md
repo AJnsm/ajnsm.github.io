@@ -10,6 +10,23 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <br>
 ## Articles
 
+- **Engineering Emergence**
+
+	Abel Jansma, Erik Hoel, *2025*
+
+	[[preprint](https://arxiv.org/abs/2510.02649)]
+	<details>
+			<summary>tl;dr</summary> We show that we can design systems that display *causal emergence* at any scale. In particular, we extend the framework of causal emergence 2.0 to take into account the full partition mereology, and derive a *literal* notion of scale-freeness, that is closely related to the definition from network science. </details>
+	<br>
+
+- **Möbius transforms and Shapley values for vector-valued functions on weighted directed acyclic multigraphs**
+
+	Patrick Forré, Abel Jansma, *2025*
+
+	[[preprint](https://arxiv.org/abs/2510.05786) \| [Twitter thread](https://x.com/Abelaer/status/1975967191905529933) ]
+	<details>
+			<summary>tl;dr</summary> We view Shapley values more generally as the 'right' way to project down higher-order structure. This leads to a much wider setting in which you can calculate Möbius inversions and Shapley values, namely group-valued functions on directed acyclic multigraphs.</details>
+	<br>
 	
 - **The Fast Möbius Transform: An algebraic approach to information decomposition**
 
