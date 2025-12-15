@@ -14,9 +14,18 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 
 	Abel Jansma, Erik Hoel, *2025*
 
-	[[preprint](https://arxiv.org/abs/2510.02649)]
+	[[preprint](https://arxiv.org/abs/2510.02649) \| [Blog Post](https://www.theintrinsicperspective.com/p/i-figured-out-how-to-engineer-emergence) ]
 	<details>
 			<summary>tl;dr</summary> We show that we can design systems that display *causal emergence* at any scale. In particular, we extend the framework of causal emergence 2.0 to take into account the full partition mereology, and derive a *literal* notion of scale-freeness, that is closely related to the definition from network science. </details>
+	<br>
+
+- **Decomposing Interventional Causality into Synergistic, Redundant, and Unique Components**
+
+	Abel Jansma, *NeurIPS spotlight, 2025* 
+	
+	[ [paper](https://arxiv.org/abs/2501.11447) \| [OpenReview](https://openreview.net/forum?id=yPnEvPq3kV) \| [Twitter thread](https://x.com/Abelaer/status/1882008892915482662) ]
+	<details>
+			<summary>tl;dr</summary> The 'partial causality decomposition' is constructed: true (interventional) causality is quantified by do-operators, and we decompose these into contributions from 'antichains'. This decomposes the total causal power into synergistic causality (the effects that can only be achieved by simultaneous interventions), redundant causality (effects that can be achieved by one of multiple interventions) or unique causality (effects that require a specific intervention). This method is well-known in information theory, but had not been applied to causal effects yet.</details>
 	<br>
 
 - **Möbius transforms and Shapley values for vector-valued functions on weighted directed acyclic multigraphs**
@@ -35,15 +44,6 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 	[[paper](https://journals.aps.org/prresearch/abstract/10.1103/32sq-z2jf) \| [preprint](https://arxiv.org/abs/2410.06224) \| [code](https://github.com/AJnsm/algebraicPID) \| [Twitter thread](https://x.com/Abelaer/status/1844659016993058981) ]
 	<details>
 			<summary>tl;dr</summary> We present a way to calculate how information is shared between multiple variables in complex systems, distinguishing between redundant, synergistic, and unique information. By leveraging algebraic properties of information decomposition, the method makes previously intractable analyses possible. We demonstrate this on brain activity data, and baroque music compositions.</details>
-	<br>
-
-- **Decomposing Interventional Causality into Synergistic, Redundant, and Unique Components**
-
-	Abel Jansma, *2025* 
-	
-	[ [paper](https://arxiv.org/abs/2501.11447) \| [Twitter thread](https://x.com/Abelaer/status/1882008892915482662) ]
-	<details>
-			<summary>tl;dr</summary> The 'partial causality decomposition' is constructed: true (interventional) causality is quantified by do-operators, and we decompose these into contributions from 'antichains'. This decomposes the total causal power into synergistic causality (the effects that can only be achieved by simultaneous interventions), redundant causality (effects that can be achieved by one of multiple interventions) or unique causality (effects that require a specific intervention). This method is well-known in information theory, but had not been applied to causal effects yet.</details>
 	<br>
 
 	
