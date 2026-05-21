@@ -23,7 +23,7 @@ Berlin | Amsterdam | Edinburgh
 </div>
 
 ## Academic PDF
-An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV_2023.pdf" target="_blank">here</a>
+An up-to-date academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank">here</a>
 
 ## Currently
 

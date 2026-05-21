@@ -37,7 +37,7 @@ $$
 Which is exactly the <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Pearson correlation</a> $\rho_{xy}$ of N samples. This gives a very natural interpretation of a correlation: it's the angle between the vectors of observations, perhaps the most fundamental way to talk about similarity of two points in a space:
 
 <section class="center">
-	<img src="/assets/correlation_asCos.png" width="200">
+	<img src="/assets/blogPics/correlation_asCos.png" width="200" alt="Correlation as an angle between observation vectors">
 </section>
 
 Where $\theta = \cos^{-1}{\rho_{xy}}$ and $O_i$ is the $i$th observation.<br>

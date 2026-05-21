@@ -4,8 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-## Academic CV
+
 An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank">here</a>.
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=INJd_nIAAAAJ) and [ORCID](https://orcid.org/0000-0002-1734-637X).
 
 <br>
 ## Articles
@@ -147,5 +148,6 @@ An academic CV is available  <a href="/assets/AbelJansma_CV.pdf" target="_blank"
 <a href="/assets/presentations/quantumness_gramounce.pdf" target="_blank"> Quantumness---What it is and isn't </a> Lecture at the Gramounce M.A. 2025<br>
 <a href="https://www.quantumuniverse.nl/over-vogels-en-vuurvliegjes" target="_blank"> Over vogels en vuurvliegjes </a> Quantumuniverse.nl 2019.<br>
 <a href="https://www.quantumuniverse.nl/solitonen-het-zwembad" target="_blank"> Solitonen in het zwembad </a> Quantumuniverse.nl 2019.<br>
-<a href="https://www.mediamatic.net/en/page/284175/distillation-101" target="_blank"> Distillation 101 </a> Mediamatic.net 2016.
-
+<a href="https://spui25.nl/spui-25-in-spe" target="_blank"> SPUI25 </a> Hosting lectures and debates for a general public, 2017.<br>
+<a href="https://www.mediamatic.net/en/page/284175/distillation-101" target="_blank"> Distillation 101 </a> Mediamatic.net 2016.<br>
+<a href="https://www.betabreak.org" target="_blank"> BetaBreak </a> Hosting lectures and debates for students, 2014-2016.

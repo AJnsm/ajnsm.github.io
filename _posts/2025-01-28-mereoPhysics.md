@@ -19,7 +19,7 @@ Have a look at these three rings:
 <br>
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/borromean_rings.svg" width=200>
+    <img src="/assets/blogPics/borromean_rings.svg" width=200 alt="Borromean rings">
 </div>
 
 <br>
@@ -36,7 +36,7 @@ While the three rings above---known as the *Borromean rings*---are especially si
 <br>
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/brunnian_links.svg" width=500>
+    <img src="/assets/blogPics/brunnian_links.svg" width=500 alt="Brunnian links with four and six rings">
 </div>
 
 <br>
@@ -61,7 +61,7 @@ Mereology[^1] is the study of 'parts'---specifically the relationship between pa
 If we want to describe parts and wholes, let's start with the whole. It is the biggest possible part of itself. The whole can then be divided into smaller parts. One example of this is from the 1886 "Handbook of Practical Cookery" by Matilda Dods:
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/ox_sheep.png" width=700>
+    <img src="/assets/blogPics/ox_sheep.png" width=700 alt="Historic cutting diagrams of an ox and sheep">
 </div>
 
 <br>
@@ -83,7 +83,7 @@ These rules are well-known to mathematicians, who call them *transitivity*, *ref
 <br>
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/hasse_bicycle.png" width=400>
+    <img src="/assets/blogPics/hasse_bicycle.png" width=400 alt="Mereological diagram of bicycle parts">
 </div>
 
 <br>
@@ -128,7 +128,7 @@ We are now at the point where we can connect this back to mereology. Note that $
 Here's a picture of the power set mereology on systems with 2, 3, or 4 variables (which I've labelled simply as $0$, $1$, $2$, and $3$):
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/hasse_BAs.png" width=700>
+    <img src="/assets/blogPics/hasse_BAs.png" width=700 alt="Power set mereologies for systems with two, three, and four variables">
 </div>
 
 <br>
@@ -196,7 +196,7 @@ $$
 This says: the height of the person with both genes is given by some contribution $h(\emptyset)$ that forms the 'baseline' height, plus the contributions of each gene individually, plus the interaction of the pair of genes. Matching the colour scheme above, we can draw this as:
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/height_graph.svg" width=500>
+    <img src="/assets/blogPics/height_graph.svg" width=500 alt="Height contributions drawn on a two-gene power set diagram">
 </div>
 
 
@@ -218,7 +218,7 @@ which can be drawn as:
 <br> 
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/height_inversion.svg" width=500>
+    <img src="/assets/blogPics/height_inversion.svg" width=500 alt="Epistatic height contribution shown as an alternating sum">
 </div>
 
 <br> 
@@ -247,7 +247,7 @@ This is a quantity known as the *mutual information* between $X$ and $Y$, and re
 ## Beyond power sets
 Both examples above use the power set mereology, which is especially simple[^4]. In the paper, I find that Möbius inversions on different mereologies reproduce different quantities that are all well-known in certain fields of science. One alternative but common mereology is the 'partition' mereology, where a set is not divided into subsets, but into 'partitions'---different ways to cut up a system. Here's what that looks like for two, three, and four variables:
 <div style="text-align: center;">
-    <img src="/assets/blogPics/hasse_partition.png" width=700>
+    <img src="/assets/blogPics/hasse_partition.png" width=700 alt="Partition mereologies for systems with two, three, and four variables">
 </div>
 
 <br>
@@ -257,7 +257,7 @@ Table 1 from the paper gives an overview of how different mereologies are associ
 <br> 
 
 <div style="text-align: center;">
-    <img src="/assets/blogPics/mereologies_table.png" width=900>
+    <img src="/assets/blogPics/mereologies_table.png" width=900 alt="Table of mereologies and their associated scientific quantities">
 </div>
 
 <br> 
@@ -274,7 +274,7 @@ In the paper I use this approach[^5] to derive new notions of 'higher-order' int
 
 To apply the framework, you have to know the Möbius function $\mu$ of the mereology you are interested in. For one famous mereology---the so-called redundancy mereology---the Möbius function was not known. It is a particularly complex mereology and includes *many*[^dedekind] parts:
 <div style="text-align: center;">
-    <img src="/assets/blogPics/hasse_antichains.png" width=700>
+    <img src="/assets/blogPics/hasse_antichains.png" width=700 alt="Redundancy mereology Hasse diagram for four variables">
 </div>
 
 <br>
