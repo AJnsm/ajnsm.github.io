@@ -11,6 +11,15 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 <br>
 ## Articles
 
+- **A Compositional Calculus for Semantic Synergy in Language Model Embeddings**
+
+	Abel Jansma, *ICML Workshop on Compositional Learning, and ICML workshop on Mechanistic Interpretability, 2025*
+
+	[[openreview](https://openreview.net/pdf?id=sMUVXkAksS) \| [Twitter Thread](https://x.com/Abelaer/status/2069049796023775602) ]
+	<details>
+			<summary>tl;dr</summary> A training-free way to extract synergy from language model embedding vectors is derived, and shown to be effective in capturing 'higher-order' semantics like idiomaticity, and steering transformers towards literal or figurative interpretations. </details>
+	<br>
+
 - **Engineering Emergence**
 
 	Abel Jansma, Erik Hoel, *2025*
