@@ -13,7 +13,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 - **A Compositional Calculus for Semantic Synergy in Language Model Embeddings**
 
-	Abel Jansma, *ICML Workshop on Compositional Learning, and ICML workshop on Mechanistic Interpretability, 2025*
+	Abel Jansma, *ICML Workshop on Compositional Learning, and ICML workshop on Mechanistic Interpretability, 2026*
 
 	[[openreview](https://openreview.net/pdf?id=sMUVXkAksS) \| [Twitter Thread](https://x.com/Abelaer/status/2069049796023775602) ]
 	<details>
