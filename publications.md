@@ -11,6 +11,16 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 <br>
 ## Articles
 
+- **Climate-model factor separation with Shapley values and efficient sampling**
+
+	Abel Jansma, *2026*
+
+	[[Arxiv](https://arxiv.org/abs/2609.11948) \| [Twitter Thread](https://x.com/Abelaer/status/2099435693822845108) ]
+	<details>
+			<summary>tl;dr</summary> Attributing climate predictions to model parameters is done with different methods. Two methods were conjectured to be equivalent. I show that they correspond to two equivalent definitions of Shapley values, which immediately suggests efficient sampling methods for climate model factorization.   </details>
+	<br>
+
+
 - **A Compositional Calculus for Semantic Synergy in Language Model Embeddings**
 
 	Abel Jansma, *ICML Workshop on Compositional Learning, and ICML workshop on Mechanistic Interpretability, 2026*
